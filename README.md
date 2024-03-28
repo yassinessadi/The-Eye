@@ -1,3 +1,4 @@
+```bash
 TheEye/
 |-- src/
 |   |-- main.py
@@ -9,3 +10,4 @@ TheEye/
 |   |-- (empty until i create the executable)
 |-- requirements.txt
 |-- README.md
+```
