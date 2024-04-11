@@ -1,1 +1,2 @@
 pip install selenium==4.18.1
+pip install selenium==4.12.3
