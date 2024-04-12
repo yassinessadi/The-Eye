@@ -7,6 +7,7 @@ from bs4 import BeautifulSoup
 import requests
 import time
 import validators
+import pandas as pd
 
 # Initialize Selenium WebDriver
 service = Service("C://chromedriver//chromedriver.exe")
@@ -33,36 +34,55 @@ for title in titles:
     print("Title:", title.text)
 
 # Use Selenium to automate workflow based on extracted data
+# while True:
+#     url = input("Enter the search engine URL: ")
+#     if validators.url(url):
+#         break
+#     else:
+#         print("Invalid URL. Please enter a valid URL.")
 # For demonstration, let's assume we are searching for the extracted title on Google
-driver.get("https://www.google.com/")
+driver.get("https://www.google.com")
 time.sleep(3)
 search_box = driver.find_element(By.NAME, "q")
 search_box.send_keys(titles[0].text)
 search_box.send_keys(Keys.ENTER)
 
 
-# Loop to collect search result URLs from multiple pages
-search_results = []
+scrolls = 0
+max_scrolls = 10  # Maximum number of scrolls to perform
+last_scroll_height = driver.execute_script("return document.body.scrollHeight")
 
-while True:
+# Loop to collect search result URLs from multiple pages by scrolling
+search_results_header = []
+
+while scrolls < max_scrolls:
+    # Scroll down to the bottom of the page to load more search results
+    driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+    time.sleep(3)  # Wait for the page to load more results
+    
     # Extract search result URLs from the current page
-    search_elems = driver.find_elements(By.XPATH, "//div[@class='tF2Cxc']")
+    h3_elems = driver.find_elements(By.XPATH, "//h3")
     
-    for elem in search_elems:
-        link = elem.find_element(By.TAG_NAME, "a").get_attribute("href")
-        search_results.append(link)
-        print("Added link:", link)
+    for h3_elem in h3_elems:
+        title = h3_elem.text
+        if title:
+            search_results_header.append(title)
+
     
-    # Check if there is a 'Next' button
-    next_button = driver.find_elements(By.XPATH, "//a[@id='pnnext']")
-    if len(next_button) == 0:
+    # Check if the page has been scrolled to the bottom
+    new_scroll_height = driver.execute_script("return document.body.scrollHeight")
+    if new_scroll_height == last_scroll_height:
         break
     
-    # Click 'Next' button to go to the next page
-    next_button[0].click()
-    time.sleep(3)  # Wait for the next page to load
+    # Update the last scroll height
+    last_scroll_height = new_scroll_height
+    
+    # Increment the number of scrolls
+    scrolls += 1
 
 # Print all collected search result URLs
 print("\nCollected Search Result URLs:")
-for idx, link in enumerate(search_results, start=1):
-    print(f"{idx}. {link}")
+df = pd.DataFrame(search_results_header)
+df.to_csv(path_or_buf="../data/output.csv")
+# for idx, heading in enumerate(search_results_header, start=1):
+#     print(f"{idx}. {heading}")
