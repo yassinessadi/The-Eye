@@ -44,7 +44,10 @@ for title in titles:
 driver.get("https://www.google.com")
 time.sleep(3)
 search_box = driver.find_element(By.NAME, "q")
-search_box.send_keys(titles[0].text)
+google_dorks = input("Enter google dorks: ")
+target_web_site = input("Enter the target website: ")
+full_query = f"{google_dorks}:{target_web_site} {titles[0].text}"
+search_box.send_keys(full_query)
 search_box.send_keys(Keys.ENTER)
 
 
@@ -53,7 +56,8 @@ max_scrolls = 10  # Maximum number of scrolls to perform
 last_scroll_height = driver.execute_script("return document.body.scrollHeight")
 
 # Loop to collect search result URLs from multiple pages by scrolling
-search_results_header = []
+search_results_headers = []
+search_results_links = []
 
 while scrolls < max_scrolls:
     # Scroll down to the bottom of the page to load more search results
@@ -66,7 +70,7 @@ while scrolls < max_scrolls:
     for h3_elem in h3_elems:
         title = h3_elem.text
         if title:
-            search_results_header.append(title)
+            search_results_headers.append(title)
 
     
     # Check if the page has been scrolled to the bottom
@@ -82,7 +86,8 @@ while scrolls < max_scrolls:
 
 # Print all collected search result URLs
 print("\nCollected Search Result URLs:")
-df = pd.DataFrame(search_results_header)
+for idx, heading in enumerate(search_results_headers, start=1):
+    print(f"{idx}. {heading}")
+# store the data as csv file
+df = pd.DataFrame(search_results_headers)
 df.to_csv(path_or_buf="../data/output.csv")
-# for idx, heading in enumerate(search_results_header, start=1):
-#     print(f"{idx}. {heading}")
