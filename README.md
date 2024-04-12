@@ -11,3 +11,21 @@ TheEye/
 |-- requirements.txt
 |-- README.md
 ```
+
+
+```bash
+project_folder/
+│
+├── src/
+│   └── main.py
+│
+└── include/
+    ├── __init__.py
+    ├── web_driver.py
+    ├── url_validator.py
+    ├── web_parser.py
+    ├── search_engine_automation.py
+    ├── get_elements.py
+    └── data_handler.py
+
+```
