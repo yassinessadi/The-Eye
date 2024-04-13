@@ -13,14 +13,13 @@ if __name__ == "__main__":
     choice = input("Enter your choice (1/2): ")
     
     keyword = input("Enter the keyword: ")
-    google_dorks = input("Enter google dorks: ")
-    target_website = input("Enter the target website: ")
+    dorks = input("Enter dorks: ")
     
     if choice == '1':
-        search_engine.search_google(driver, google_dorks, target_website, keyword)
+        search_engine.search_google(driver, dorks, keyword)
         search_results_headers = get_elements.get_search_results(driver, 'google')
     elif choice == '2':
-        search_engine.search_yandex(driver, google_dorks, target_website, keyword)
+        search_engine.search_yandex(driver, dorks, keyword)
         search_results_headers = get_elements.get_search_results(driver, 'yandex')
     else:
         print("Invalid choice. Please try again.")
