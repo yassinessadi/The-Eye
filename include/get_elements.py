@@ -15,17 +15,22 @@ def get_search_results(driver, search_engine):
         
         # Extract search result headers from the current page
         if search_engine == 'google':
-            h3_elems = driver.find_elements(By.XPATH, "//h3")
-            for h3_elem in h3_elems:
-                title = h3_elem.text
-                if title:
-                    search_results_headers.append(title)
+            try:
+                h3_elems = driver.find_elements(By.XPATH, "//h3")
+                for h3_elem in h3_elems:
+                    title = h3_elem.text
+                    if title:
+                        search_results_headers.append(title)
+            except:
+                print(f"Error extracting data from Google search result: {e}")
                     
         elif search_engine == 'yandex':
             try:
-                element = driver.find_element(By.XPATH, '//h2')
-                result_text = element.text
-                search_results_headers.append(result_text)
+                h2_elems = driver.find_elements(By.XPATH, '//h2')
+                for h2_elem in h2_elems:
+                    result_text = h2_elem.text
+                    if result_text:
+                        search_results_headers.append(result_text)
             except Exception as e:
                 print(f"Error extracting text from Yandex search result: {e}")
         
