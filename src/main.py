@@ -1,41 +1,29 @@
 import sys
-import time
 sys.path.append('../')  
 
-from include import web_driver, data_handler, get_elements, search_engine
+from include import web_driver, data_handler, get_elements, search_engine, helper
 
-def get_dorks_list(dorks_input):
-    return dorks_input.split(',')
 
 if __name__ == "__main__":
     driver = web_driver.initialize_driver()
-    
-    # Display search engine options to the user
-    print("Choose a search engine:")
-    print("1. Google")
-    print("2. Yandex")
-    choice = input("Enter your choice (1/2): ")
-    
-    keyword = "Yassine Essadi"  # Fixed keyword for the example
-    dorks_input = input("Enter dorks separated by commas: ")
-    dorks_list = get_dorks_list(dorks_input)
+
+    choice, queries = helper.userInput()
+
+    queries_list = helper.get_query_list(queries)
     
     all_search_results = []
     
-    for dork in dorks_list:
+    for query in queries_list:
         if choice == '1':
-            search_engine.search_google(driver, dork, keyword)
-            
+            search_engine.search_google(driver, query)
             # Check for Google CAPTCHA and wait for manual solving
-            if "captcha" in driver.current_url.lower() or "captcha" in driver.page_source.lower():
-                print("Google CAPTCHA detected! Please solve it manually within 20 seconds.")
-                time.sleep(20)
-                print("Proceeding after 20 seconds...")
+            helper.handle_captcha(driver)
             
             search_results_headers = get_elements.get_search_results(driver, 'google')
         elif choice == '2':
-            search_engine.search_yandex(driver, dork, keyword)
+            search_engine.search_yandex(driver, query)
             search_results_headers = get_elements.get_search_results(driver, 'yandex')
+            
         else:
             print("Invalid choice. Please try again.")
             sys.exit(1)
