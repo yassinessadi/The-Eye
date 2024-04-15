@@ -1,16 +1,18 @@
 import sys
 sys.path.append('../')  
 
-from include import web_driver, data_handler, get_elements, search_engine, helper
+from include import web_driver, data_handler, get_elements, search_engine, helper, currency_exchange_rate
 
 
 if __name__ == "__main__":
     driver = web_driver.initialize_driver()
 
-    choice, queries = helper.userInput()
+    choice, queries, active_converter = helper.userInput()
+    if active_converter:
+        currency_exchange_rate.get_currency(driver,queries)
+        sys.exit(1)
 
     queries_list = helper.get_query_list(queries)
-    
     all_search_results = []
     
     for query in queries_list:
@@ -18,7 +20,6 @@ if __name__ == "__main__":
             search_engine.search_google(driver, query)
             # Check for Google CAPTCHA and wait for manual solving
             helper.handle_captcha(driver)
-            
             search_results_headers = get_elements.get_search_results(driver, 'google')
         elif choice == '2':
             search_engine.search_yandex(driver, query)
@@ -27,7 +28,6 @@ if __name__ == "__main__":
         else:
             print("Invalid choice. Please try again.")
             sys.exit(1)
-        
         all_search_results.extend(search_results_headers)
     
     # Print all collected search result headers
