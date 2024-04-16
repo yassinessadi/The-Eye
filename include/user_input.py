@@ -23,6 +23,7 @@ class UserInput:
             else:
                 user_choice_query = input("Do you want to enter a custom query? (yes/no): ").lower()
                 if user_choice_query == "yes":
+                    print("\nDo you want to use a custom query? ->Please make sure you are using ',' between the query to allow multi-search in Google result. example: intext:'orange' site:fruit.com ,inurl:'orange' site:exmple.com\n")
                     query = Helper.custom_query()
                 else:
                     domain = input("Enter the domain: ")
