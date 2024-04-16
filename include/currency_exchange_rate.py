@@ -22,5 +22,3 @@ class CurrencyExchangeRate:
             print(f"Exchange rate: {exchange_rate}")
         except Exception as e:
             print(f"Error: {e}")
-
-        driver.quit()
