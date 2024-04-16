@@ -35,14 +35,15 @@ class Helper:
         print("2. Yandex")
         choice = input("Enter your choice (1/2): ")
         print("--------------------------------------")
-        user_choice_currency = input("Do you want the current data exchange rate? (yes/no): ").lower()
-        active_converter = False
-        if user_choice_currency == "yes":
-            Currency_Field_1 = input("Enter the Currency Amount Field 1: ")
-            Currency_Field_2 = input("Enter the Currency Amount Field 2: ")
-            query = Helper.build_currency_query(Currency_Field_1, Currency_Field_2)
-            active_converter = True
-            return choice, query, active_converter
+        if choice == "1":
+            active_converter = False
+            user_choice_currency = input("Do you want the current data exchange rate? (yes/no): ").lower()
+            if user_choice_currency == "yes":
+                Currency_Field_1 = input("Enter the Currency Amount Field 1: ")
+                Currency_Field_2 = input("Enter the Currency Amount Field 2: ")
+                query = Helper.build_currency_query(Currency_Field_1, Currency_Field_2)
+                active_converter = True
+                return choice, query, active_converter
         else:
             user_choice_query = input("Do you want to enter a custom query? (yes/no): ").lower()
             active_converter = False
