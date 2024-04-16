@@ -1,8 +1,5 @@
 import time
-from selenium.common.exceptions import TimeoutException
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support.ui import WebDriverWait
-from selenium.webdriver.support import expected_conditions as EC
+import sys
 
 class Helper:
     @staticmethod
@@ -35,25 +32,39 @@ class Helper:
         print("2. Yandex")
         choice = input("Enter your choice (1/2): ")
         print("--------------------------------------")
+
+        active_converter = False
+        query = ""
+
         if choice == "1":
-            active_converter = False
             user_choice_currency = input("Do you want the current data exchange rate? (yes/no): ").lower()
             if user_choice_currency == "yes":
                 Currency_Field_1 = input("Enter the Currency Amount Field 1: ")
                 Currency_Field_2 = input("Enter the Currency Amount Field 2: ")
                 query = Helper.build_currency_query(Currency_Field_1, Currency_Field_2)
                 active_converter = True
-                return choice, query, active_converter
-        else:
+            else:
+                user_choice_query = input("Do you want to enter a custom query? (yes/no): ").lower()
+                if user_choice_query == "yes":
+                    query = Helper.custom_query()
+                else:
+                    domain = input("Enter the domain: ")
+                    keyword = input("Enter the keyword: ")
+                    query = Helper.build_dorks_query(domain, keyword)
+        elif choice == "2":
             user_choice_query = input("Do you want to enter a custom query? (yes/no): ").lower()
-            active_converter = False
             if user_choice_query == "yes":
                 query = Helper.custom_query()
             else:
                 domain = input("Enter the domain: ")
                 keyword = input("Enter the keyword: ")
                 query = Helper.build_dorks_query(domain, keyword)
-            return choice, query, active_converter
+        else:
+            print("Invalid choice. Please try again.")
+            sys.exit(1)
+
+        return choice, query, active_converter
+
 
     @staticmethod
     def get_query_list(dorks_input):
