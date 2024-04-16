@@ -1,13 +1,13 @@
 import sys
 sys.path.append('../')  
 
-from include import web_driver, data_handler, get_elements, search_engine, helper, currency_exchange_rate
+from include import web_driver, data_handler, get_elements, search_engine, helper, currency_exchange_rate,captcha_handler,user_input
 
 class MainApp:
     def run(self):
         driver = web_driver.WebDriver().initialize_driver()
 
-        choice, queries, active_converter = helper.Helper.user_input()
+        choice, queries, active_converter = user_input.UserInput.user_input()
         if active_converter:
             currency_exchange_rate.CurrencyExchangeRate.get_currency(driver, queries)
             sys.exit(1)
@@ -19,7 +19,7 @@ class MainApp:
             if choice == '1':
                 search_engine.SearchEngine(driver).search_google(query)
                 # Check for Google CAPTCHA and wait for manual solving
-                helper.Helper.handle_captcha(driver)
+                captcha_handler.CaptchaHandler.handle_captcha(driver)
                 search_results_headers = get_elements.GetElements.get_search_results(driver, 'google')
             elif choice == '2':
                 search_engine.SearchEngine(driver).search_yandex(query)
