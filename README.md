@@ -1,8 +1,4 @@
-Certainly! Here's the updated README with the project structure added:
-
----
-
-# Project Name: Web Search and Currency Exchange Rate
+# The eye
 
 ## Overview
 
