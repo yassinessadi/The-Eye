@@ -23,24 +23,21 @@ class GetElements:
     def extract_elements(source_page, search_engine):
         search_results = []
         soup = BeautifulSoup(source_page, 'html.parser')
-
         if search_engine == 'google':
             try:
-                for container in soup.find_all(class_='yuRUbf'):
+                for container in soup.find_all(class_='tF2Cxc'):
                     title = container.find('h3').text.strip()
                     link = container.find('a')['href']
-                    text = container.find('div', {'data-snf': 'nke7rc'})
+                    description = container.find('div', class_='yXK7lf').text.strip()
 
-                    location = container.find('div', class_='LEwnzc Sqrs4e')
-
-                    print("Location:", location)
-
-                    
-                    if title and link and text:
+                    print("Title:", title)
+                    print("Link:", link)
+                    print("Description:", description)
+                    if title and link:
                         search_results.append({
                             'Title': title,
                             'Link': link,
-                            "Description": text
+                            "Description": description
                         })
             except Exception as e:
                 print(f"Error extracting text from google search result: {e}")
@@ -53,5 +50,5 @@ class GetElements:
                         search_results.append(result_text)
             except Exception as e:
                 print(f"Error extracting text from Yandex search result: {e}")
-        
+
         return search_results
