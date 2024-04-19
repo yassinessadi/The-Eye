@@ -1,5 +1,7 @@
 import time
 from bs4 import BeautifulSoup
+from .related_quetions import GetRelatedQuestions
+import json
 
 class GetElements:
     @staticmethod
@@ -21,34 +23,41 @@ class GetElements:
 
     @staticmethod
     def extract_elements(source_page, search_engine):
-        search_results = []
+        search_results = {'info': [], 'questions': []}
         soup = BeautifulSoup(source_page, 'html.parser')
         if search_engine == 'google':
             try:
                 for container in soup.find_all(class_='tF2Cxc'):
-                    title = container.find('h3').text.strip()
-                    link = container.find('a')['href']
-                    description = container.find('div', class_='yXK7lf').text.strip()
+                    title_elem = container.find('h3')
+                    link_elem = container.find('a')
+                    snippet_elem = container.find('div', class_='yXK7lf')
+                    
+                    title = title_elem.text.strip() if title_elem else ""
+                    link = link_elem['href'] if link_elem else ""
+                    snippet = snippet_elem.text.strip() if snippet_elem else ""
 
                     print("Title:", title)
                     print("Link:", link)
-                    print("Description:", description)
+                    print("Snippet:", snippet)
                     if title and link:
-                        search_results.append({
+                        search_results['info'].append({
                             'Title': title,
                             'Link': link,
-                            "Description": description
+                            "Description": snippet
                         })
+
+                # Extract related questions section
+                search_results['questions'] =  GetRelatedQuestions.getQuestions(soup)
             except Exception as e:
-                print(f"Error extracting text from google search result: {e}")
+                print(f"Error extracting text from Google search result: {e}")
         elif search_engine == 'yandex':
             try:
                 h2_elems = soup.find_all('h2')
                 for h2_elem in h2_elems:
                     result_text = h2_elem.text
                     if result_text:
-                        search_results.append(result_text)
+                        search_results['info'].append(result_text)
             except Exception as e:
                 print(f"Error extracting text from Yandex search result: {e}")
 
-        return search_results
+        return json.dumps(search_results, ensure_ascii=False, indent=4)
