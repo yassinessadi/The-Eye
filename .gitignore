@@ -1,3 +1,6 @@
 data/*
 include/__pycache__/
 docs/
+Lib/
+Scripts/
+pyvenv.cfg
