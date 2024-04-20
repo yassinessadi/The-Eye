@@ -1,6 +1,6 @@
 import time
-from bs4 import BeautifulSoup
 from .related_quetions import GetRelatedQuestions
+from .web_parser import WebScraper
 import json
 
 class GetElements:
@@ -24,7 +24,7 @@ class GetElements:
     @staticmethod
     def extract_elements(source_page, search_engine):
         search_results = {'info': [], 'questions': []}
-        soup = BeautifulSoup(source_page, 'html.parser')
+        soup = WebScraper.parse_website(source_page)
         if search_engine == 'google':
             try:
                 for container in soup.find_all(class_='tF2Cxc'):

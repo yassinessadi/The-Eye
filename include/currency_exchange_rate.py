@@ -2,6 +2,7 @@ from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
+from .web_parser import WebScraper
 
 from bs4 import BeautifulSoup
 
@@ -16,7 +17,7 @@ class CurrencyExchangeRate:
         try:
             WebDriverWait(driver, 10).until(EC.presence_of_element_located((By.CLASS_NAME, 'b1hJbf')))
             html = driver.page_source
-            soup = BeautifulSoup(html, 'html.parser')
+            soup = WebScraper.parse_website(html)
 
             exchange_rate_div = soup.find('div', {'class': 'b1hJbf'})
             exchange_rate = exchange_rate_div['data-exchange-rate']

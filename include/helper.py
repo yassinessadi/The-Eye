@@ -1,6 +1,3 @@
-import time
-import sys
-
 class Helper:
     @staticmethod
     def custom_query():

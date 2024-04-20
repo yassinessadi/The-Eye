@@ -1,8 +1,6 @@
-import requests
 from bs4 import BeautifulSoup
 
 class WebScraper:
-    def parse_website(self, url):
-        response = requests.get(url)
-        if response.status_code == 200:
-            return BeautifulSoup(response.content, 'html.parser')
+    @staticmethod
+    def parse_website(page_source):
+        return BeautifulSoup(page_source, 'html.parser')
