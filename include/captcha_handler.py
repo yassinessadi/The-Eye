@@ -1,10 +1,11 @@
 import time
 from bs4 import BeautifulSoup
+from .web_parser import WebScraper
 
 class CaptchaHandler:
     @staticmethod
     def handle_captcha(source_page, search_engine):
-        soup = BeautifulSoup(source_page, 'html.parser')
+        soup = WebScraper.parse_website(source_page)
         
         if search_engine == 'google':
             if "captcha" in source_page.lower():
