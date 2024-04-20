@@ -1,0 +1,298 @@
+[
+  {
+    "info": [
+      {
+        "Title": "Welcome to Python.org",
+        "Link": "https://www.python.org/",
+        "Snippet": "The official home of the Python Programming Language."
+      },
+      {
+        "Title": "Qu'est-ce que Python ? Explications et utilité pour les projets web",
+        "Link": "https://blog.hubspot.fr/website/python#:~:text=Python%20est%20un%20langage%20de%20programmation%20open%2Dsource%20tr%C3%A8s%20populaire,continu%20par%20la%20communaut%C3%A9%20Python.",
+        "Snippet": ""
+      },
+      {
+        "Title": "Qu'est-ce que Python ? – Le langage Python expliqué - Amazon AWS",
+        "Link": "https://aws.amazon.com/fr/what-is/python/#:~:text=Python%20est%20un%20langage%20de,le%20machine%20learning%20(ML).",
+        "Snippet": ""
+      },
+      {
+        "Title": "Langage Python : c'est quoi ? Que peut-on faire avec en 2023 ?",
+        "Link": "https://www.data-bird.co/blog/langage-python#:~:text=Mais%20ses%20applications%20ne%20se,social%20(ex%3A%20Instagram).",
+        "Snippet": ""
+      },
+      {
+        "Title": "La meilleure façon d'apprendre Python 2024 (tutoriels ... - Kinsta",
+        "Link": "https://kinsta.com/fr/blog/facon-d-apprendre-python/#:~:text=L'un%20des%20meilleurs%20endroits,la%20programmation%20et%20%C3%A0%20Python.",
+        "Snippet": ""
+      },
+      {
+        "Title": "Python (langage)",
+        "Link": "https://fr.wikipedia.org/wiki/Python_(langage)",
+        "Snippet": "Python (prononcé /pi.tɔ̃/) est un langage de programmation interprété, multiparadigme et multiplateformes. Il favorise la programmation impérative structurée ..."
+      },
+      {
+        "Title": "Apprenez les bases du langage Python",
+        "Link": "https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python",
+        "Snippet": "Python est très demandé et accessible pour les débutants. Apprenez à coder avec Python pour écrire des programmes simples mais puissants, ..."
+      },
+      {
+        "Title": "Python Tutorial",
+        "Link": "https://www.w3schools.com/python/",
+        "Snippet": "Learn Python. Python is a popular programming language. Python can be used on a server to create web applications. Start learning Python now » ..."
+      },
+      {
+        "Title": "بايثون (لغة برمجة)",
+        "Link": "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)",
+        "Snippet": "بايثون (بالإنجليزية: Python)‏ هي لغة برمجة، عالية المستوى سهلة التعلم مفتوحة المصدر قابلة للتوسيع، تعتمد أسلوب البرمجة الكائنية. لغة بايثون هي لغة مُفسَّرة، ..."
+      },
+      {
+        "Title": "Apprendre Python et s'initier à la programmation",
+        "Link": "https://python.developpez.com/tutoriels/apprendre-programmation-python/les-bases/?page=le-langage-python",
+        "Snippet": "L'exécution d'un programme Python se fait à l'aide d'un interpréteur. Il s'agit d'un programme qui va traduire les instructions écrites en Python en langage ..."
+      },
+      {
+        "Title": "Python 🐍 : Focus sur le langage le plus populaire",
+        "Link": "https://datascientest.com/python-tout-savoir",
+        "Snippet": "17 avr. 2023 — Python est le langage de programmation informatique le plus populaire et le plus utilisé, notamment dans le domaine de la Data Science et du ..."
+      },
+      {
+        "Title": "des fondamentaux aux concepts avancés du langage - Cours",
+        "Link": "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/",
+        "Snippet": "Dans ce cours, vous apprendrez à bien programmer en Python. On vous mènera des premiers pas dans le langage à l'étude des concepts les plus évolués, ..."
+      },
+      {
+        "Title": "Télécharger Python - Utilitaires, Développement",
+        "Link": "https://www.lesnumeriques.com/telecharger/python-20524",
+        "Snippet": "Python est un langage de programmation open source et orienté objet disponible sur Linux macOS et Windows. Le kit de développement comprend tous les outils ..."
+      },
+      {
+        "Title": "Lancez votre premier programme Python",
+        "Link": "https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python/7289426-lancez-votre-premier-programme-python",
+        "Snippet": "21 jui. 2021 — En résumé · Python est un langage populaire chez les débutants et les développeurs experts, car il est facile à lire et polyvalent. · Vous ..."
+      },
+      {
+        "Title": "Programmation Python",
+        "Link": "https://fr.wikibooks.org/wiki/Programmation_Python",
+        "Snippet": "Programmation Python ... Python est un langage de script multi-paradigme et multi-usage. Avancement. Terminé. Classement CDU."
+      },
+      {
+        "Title": "Qu'est-ce que Python ? – Le langage Python expliqué",
+        "Link": "https://aws.amazon.com/fr/what-is/python/",
+        "Snippet": "Python est un langage interprété, ce qui signifie qu'il exécute directement le code ligne par ligne. S'il y a des erreurs dans le code du programme, celui-ci s' ..."
+      },
+      {
+        "Title": "Introduction to Python",
+        "Link": "https://www.w3schools.com/python/python_intro.asp",
+        "Snippet": "What can Python do? · Python can be used on a server to create web applications. · Python can be used alongside software to create workflows. · Python can ..."
+      },
+      {
+        "Title": "Python - Glossaire MDN : définitions des termes du Web",
+        "Link": "https://developer.mozilla.org/fr/docs/Glossary/Python",
+        "Snippet": "16 oct. 2023 — Python est un langage de programmation de haut-niveau, pour tous usages. Il possède une approche multi-paradigme et supporte donc des formes ..."
+      },
+      {
+        "Title": "Définition | Python - Futura-Sciences",
+        "Link": "https://www.futura-sciences.com/tech/definitions/informatique-python-19349/",
+        "Snippet": "10 mai 2021 — Le langage Python est un langage de programmation open source multi-plateformes et orienté objet. Grâce à des bibliothèques spécialisées, Python ..."
+      },
+      {
+        "Title": "Learn Python - Free Interactive Python Tutorial",
+        "Link": "https://www.learnpython.org/",
+        "Snippet": "learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast."
+      },
+      {
+        "Title": "Langage Python : c'est quoi ? Que peut-on faire avec en ...",
+        "Link": "https://www.data-bird.co/blog/langage-python",
+        "Snippet": "12 avr. 2024 — Un langage puissant et polyvalent · créer et administrer un site Web · développer des logiciels et des applications, aussi bien pour ordinateur ..."
+      },
+      {
+        "Title": "Qu'est-ce que Python ? Explications et utilité pour les projets ...",
+        "Link": "https://blog.hubspot.fr/website/python",
+        "Snippet": "24 juil. 2023 — Python permet de développer des projets d'applications web. Python est majoritairement utilisé en programmation backend, c'est-à-dire qu'il sert ..."
+      },
+      {
+        "Title": "Apprendre à coder avec Python - Cours",
+        "Link": "https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/",
+        "Snippet": "Plan de cours · Module 1 : Bienvenue dans l'environnement Python 3. Installation de Python 3 et PyCharm sur votre ordinateur · Module 2 : Python comme machine à ..."
+      },
+      {
+        "Title": "Python Courses & Tutorials",
+        "Link": "https://www.codecademy.com/catalog/language/python",
+        "Snippet": "Start your coding journey with Python courses and tutorials. From basic to advanced projects, grow your Python skills at Codecademy."
+      },
+      {
+        "Title": "Python",
+        "Link": "https://github.com/python",
+        "Snippet": "Repositories related to the Python Programming language - Python."
+      },
+      {
+        "Title": "Python : définition et utilisation de ce langage informatique",
+        "Link": "https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445304-python-definition-et-utilisation-de-ce-langage-informatique/",
+        "Snippet": "31 mar. 2020 — Python est le langage de programmation open source le plus employé par les informaticiens. Ce langage s'est propulsé en tête de la gestion d' ..."
+      },
+      {
+        "Title": "PyPI · The Python Package Index",
+        "Link": "https://pypi.org/",
+        "Snippet": "The Python Package Index (PyPI) is a repository of software for the Python programming language."
+      },
+      {
+        "Title": "Club des développeurs Python : actualités, cours, tutoriels, faq ...",
+        "Link": "https://python.developpez.com/",
+        "Snippet": "Club des développeurs Python : actualités, cours, tutoriels, faq, sources, forum."
+      },
+      {
+        "Title": "Programming for Everybody (Getting Started with Python)",
+        "Link": "https://www.coursera.org/learn/python",
+        "Snippet": "Offered by University of Michigan. This course aims to teach everyone the basics of programming computers using Python. We cover the basics ."
+      },
+      {
+        "Title": "Real Python: Python Tutorials",
+        "Link": "https://realpython.com/",
+        "Snippet": "Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more."
+      },
+      {
+        "Title": "Laboratoire Python | Lelivrescolaire.fr",
+        "Link": "https://www.lelivrescolaire.fr/outils/console-python",
+        "Snippet": "Apprendre le code passe par la pratique ! Retrouvez une console Python ainsi que des ressources pour travailler efficacement l'algorithmique avec vos ..."
+      },
+      {
+        "Title": "Learn Python",
+        "Link": "https://www.kaggle.com/learn/python",
+        "Snippet": "Learn the most important language for data science."
+      },
+      {
+        "Title": "Python language de programmation apprendre cours ...",
+        "Link": "https://python.doctor/",
+        "Snippet": "Python est un langage facile à apprendre et son code est plus lisible, il est donc plus facile à maintenir. Il est parfois jusqu'à 5 fois plus concis que le ..."
+      },
+      {
+        "Title": "Python Syntax",
+        "Link": "https://www.w3schools.com/python/python_syntax.asp",
+        "Snippet": "Execute Python Syntax. As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line: >>> print(\"Hello, World!\")"
+      },
+      {
+        "Title": "Python - Visual Studio Marketplace",
+        "Link": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
+        "Snippet": "Quick start · Step 1. Install a supported version of Python on your system (note: that the system install of Python on macOS is not supported). · Step 2."
+      },
+      {
+        "Title": "PythonAnywhere: Host, run, and code Python in the cloud",
+        "Link": "https://www.pythonanywhere.com/",
+        "Snippet": "PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web-based editor or just run a console session ..."
+      },
+      {
+        "Title": "Google's Python Class | Python Education",
+        "Link": "https://developers.google.com/edu/python",
+        "Snippet": "17 jan. 2023 — Google's Python Class ... Welcome to Google's Python Class -- this is a free class for people with a little bit of programming experience who want ..."
+      },
+      {
+        "Title": "Python - Télécharger",
+        "Link": "https://python.fr.softonic.com/",
+        "Snippet": "24 jui. 2023 — Python est l'un des fleurons du logiciel libre et open source. Il est même à la base d'un grand nombre d'entre eux. Cela signifie qu'il est ..."
+      },
+      {
+        "Title": "Get Started Tutorial for Python in Visual Studio Code",
+        "Link": "https://code.visualstudio.com/docs/python/python-tutorial",
+        "Snippet": "Getting Started with Python in VS Code · Prerequisites · Install a Python interpreter · Start VS Code in a workspace folder · Create a virtual environment."
+      },
+      {
+        "Title": "Python Tutorial | Learn Python Programming",
+        "Link": "https://www.geeksforgeeks.org/python-programming-language/",
+        "Snippet": "9 avr. 2024 — Python offers, enabling you to manipulate and manage data with precision and flexibility. Additionally, we'll delve into the dynamic world of ..."
+      },
+      {
+        "Title": "Online Python Compiler (Interpreter)",
+        "Link": "https://www.programiz.com/python-programming/online-compiler/",
+        "Snippet": "Write and run Python code using our online compiler (interpreter). You can use Python Shell like IDLE, and take inputs from the user in our Python compiler."
+      },
+      {
+        "Title": "Python Programming Language",
+        "Link": "https://cloud.google.com/python",
+        "Snippet": "Python on Google Cloud integrates with Cloud Monitoring, Cloud Trace, Cloud Logging, and Error Reporting, allowing you to transparently instrument live ..."
+      },
+      {
+        "Title": "Best Online Python Courses and Programs",
+        "Link": "https://www.edx.org/learn/python",
+        "Snippet": "What is covered in a Python tutorial? · Data analysis with packages such as pandas and NumPy · Data visualization using matplotlib or Seaborn · Machine learning ..."
+      },
+      {
+        "Title": "Learn Python 2",
+        "Link": "https://www.codecademy.com/learn/learn-python",
+        "Snippet": "Learn Python 2. Learn the basics of the world's fastest growing and most popular programming language used by software engineers, analysts, data scientists, and ..."
+      },
+      {
+        "Title": "Python: Définition, Exemples, Fonctionnement",
+        "Link": "https://24pm.com/117-definitions/469-python",
+        "Snippet": "4 oct. 2019 — Python est un langage de programmation interprétation, de haut niveau, à usage général. Créée par Guido van Rossum et publié pour la première ..."
+      },
+      {
+        "Title": "Python Programming Language",
+        "Link": "https://play.google.com/store/apps/details?id=info.camposha.python&hl=ln",
+        "Snippet": "Greetings, Welcome to Python Programming Language App. Python is a high-level, general-purpose programming language. It emphasizes code readability."
+      },
+      {
+        "Title": "Top Python Courses Online - Updated [April 2024]",
+        "Link": "https://www.udemy.com/topic/python/",
+        "Snippet": "Level up your skills with a Python training course from Udemy. See why millions trust our real-world experts to help them become professional Python ..."
+      },
+      {
+        "Title": "Cours de Python",
+        "Link": "https://python.sdv.univ-paris-diderot.fr/",
+        "Snippet": "Cours de Python¶ ... Couverture livre Dunod. Notre livre « Programmation en Python pour les sciences de la vie » est paru aux éditions Dunod ! Vous le trouverez ..."
+      },
+      {
+        "Title": "SciPy -",
+        "Link": "https://scipy.org/",
+        "Snippet": "SciPy SciPy logo. A blue circle with a snake in the shape of the letter '. Fundamental algorithms for scientific computing in Python."
+      },
+      {
+        "Title": "Python for beginners - Training",
+        "Link": "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
+        "Snippet": "Learn the basics of Python, including how to use Jupyter notebooks, create programs and projects, and work with strings, math, lists, loops, dictionaries, ..."
+      },
+      {
+        "Title": "Ressources Python - Apprentissage de la programmation",
+        "Link": "https://inforef.be/swi/python.htm",
+        "Snippet": "Quelques règles de syntaxe Python. Boucles. Réaffectation. Premiers scripts, ou : comment conserver nos programmes ? Principaux types de données. Les listes ( ..."
+      },
+      {
+        "Title": "Online Python - IDE, Editor, Compiler, Interpreter",
+        "Link": "https://www.online-python.com/",
+        "Snippet": "Build and Run your Python code instantly. Online-Python is a quick and easy tool that helps you to build, compile, test your python programs."
+      },
+      {
+        "Title": "Python Institute - PROGRAM YOUR FUTURE",
+        "Link": "https://pythoninstitute.org/",
+        "Snippet": "Fabio Miguel Blaska da Fonseca ... I recommend the Python Essentials course because of its didactic methodology, and the exercises and labs which provide students ..."
+      },
+      {
+        "Title": "MicroPython - Python for microcontrollers",
+        "Link": "https://micropython.org/",
+        "Snippet": "MicroPython is a full Python compiler and runtime that runs on the bare-metal. You get an interactive prompt (the REPL) to execute commands immediately, along ..."
+      },
+      {
+        "Title": "python/cpython: The Python programming language",
+        "Link": "https://github.com/python/cpython",
+        "Snippet": "The Python programming language. Contribute to python/cpython development by creating an account on GitHub."
+      },
+      {
+        "Title": "Python Tutorial",
+        "Link": "https://www.tutorialspoint.com/python/index.htm",
+        "Snippet": "Characteristics of Python · It supports functional and structured programming methods as well as OOP. · It can be used as a scripting language or can be ..."
+      },
+      {
+        "Title": "Qu'est-ce que le langage Python - Styrel",
+        "Link": "https://www.styrel.fr/fr/python-langage-programmation-interprete",
+        "Snippet": "Il fonctionne sur la pluspart des systèmes d'exploitation du marché comme Linux, macOs et Windows. Le Python est vite devenu un langage associé au Big Data, à ..."
+      }
+    ],
+    "questions": [
+      "Quel est le rôle de Python ?",
+      "C'est quoi le langage Python ?",
+      "Qu'est-ce qu'on peut coder en Python ?",
+      "Comment maîtriser le langage Python ?"
+    ],
+    "SearchEngine": "Google"
+  }
+]
