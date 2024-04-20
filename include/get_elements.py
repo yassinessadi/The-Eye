@@ -43,7 +43,7 @@ class GetElements:
                         search_results['info'].append({
                             'Title': title,
                             'Link': link,
-                            "Description": snippet
+                            "Snippet": snippet
                         })
 
                 # Extract related questions section
