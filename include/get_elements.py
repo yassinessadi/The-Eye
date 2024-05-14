@@ -1,5 +1,6 @@
 import time
 from .related_quetions import GetRelatedQuestions
+from .related_searches import RelatedSearches
 from .web_parser import WebScraper
 import json
 
@@ -39,7 +40,7 @@ class GetElements:
                     print("Title:", title)
                     print("Link:", link)
                     print("Snippet:", snippet)
-                    if title and link:
+                    if title and link and snippet:
                         search_results['info'].append({
                             'Title': title,
                             'Link': link,
@@ -48,6 +49,7 @@ class GetElements:
 
                 # Extract related questions section
                 search_results['questions'] =  GetRelatedQuestions.getQuestions(soup)
+                search_results['related_searches'] =  RelatedSearches.getRelatedSearches(soup)
             except Exception as e:
                 print(f"Error extracting text from Google search result: {e}")
         elif search_engine == 'yandex':
