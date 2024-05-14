@@ -25,6 +25,11 @@ TheEye/
     ├── web_parser.py
     ├── search_engine_automation.py
     ├── get_elements.py
+    ├── search_engine.py
+    ├── related_searches.py
+    ├── related_quetions.py
+    ├── helper.py
+    ├── user_input.py
     └── data_handler.py
 ```
 
@@ -45,11 +50,11 @@ TheEye/
 ### Running the Main Application
 
 1. Navigate to the project directory:
-    ```
+    ```bash
     cd The-Eye
     ```
 2. Run the main application:
-    ```
+    ```bash
     cd src/
     python main.py
     ```
@@ -70,8 +75,13 @@ TheEye/
 
 A Dorks query can be constructed using advanced Google search operators. Here's an example of a custom Dorks query to search for specific file types:
 
+
 ```bash
+-> single query:
 intext:"yassine essadi" site:github.com
+
+-> multi query:
+intext:"yassine essadi" site:"github.com" , intitle:"yassine essadi" site:"linkedin.com",inurl:"yassineesadi" site:"facebook.com"
 ```
 
 To integrate this with the project:
