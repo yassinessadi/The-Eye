@@ -4,7 +4,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from .web_parser import WebScraper
 
-from bs4 import BeautifulSoup
 
 class CurrencyExchangeRate:
     @staticmethod
@@ -22,5 +21,6 @@ class CurrencyExchangeRate:
             exchange_rate_div = soup.find('div', {'class': 'b1hJbf'})
             exchange_rate = exchange_rate_div['data-exchange-rate']
             print(f"Exchange rate: {exchange_rate}")
+            print(f"{exchange_rate_div}")
         except Exception as e:
             print(f"Error: {e}")
