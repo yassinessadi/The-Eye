@@ -2,297 +2,293 @@
   {
     "info": [
       {
-        "Title": "Welcome to Python.org",
-        "Link": "https://www.python.org/",
-        "Snippet": "The official home of the Python Programming Language."
+        "Title": "wheel",
+        "Link": "https://pypi.org/project/wheel/",
+        "Snippet": "This library is the reference implementation of the Python wheel packaging standard, as defined in PEP 427. It has two different roles:."
       },
       {
-        "Title": "Qu'est-ce que Python ? Explications et utilité pour les projets web",
-        "Link": "https://blog.hubspot.fr/website/python#:~:text=Python%20est%20un%20langage%20de%20programmation%20open%2Dsource%20tr%C3%A8s%20populaire,continu%20par%20la%20communaut%C3%A9%20Python.",
-        "Snippet": ""
+        "Title": "Python Wheels",
+        "Link": "https://pythonwheels.com/",
+        "Snippet": "il y a 3 jours — PyPI currently allows uploading platform-specific wheels for Windows, macOS and Linux. It is useful to create wheels for these platforms, as it ..."
       },
       {
-        "Title": "Qu'est-ce que Python ? – Le langage Python expliqué - Amazon AWS",
-        "Link": "https://aws.amazon.com/fr/what-is/python/#:~:text=Python%20est%20un%20langage%20de,le%20machine%20learning%20(ML).",
-        "Snippet": ""
+        "Title": "What Are Python Wheels and Why Should You Care?",
+        "Link": "https://realpython.com/python-wheels/",
+        "Snippet": "A wheel is a type of built distribution. In this case, built means that the wheel comes in a ready-to-install format and allows you to skip the build stage ..."
       },
       {
-        "Title": "Langage Python : c'est quoi ? Que peut-on faire avec en 2023 ?",
-        "Link": "https://www.data-bird.co/blog/langage-python#:~:text=Mais%20ses%20applications%20ne%20se,social%20(ex%3A%20Instagram).",
-        "Snippet": ""
+        "Title": "Ce qui rendra plus rapide l'installation pour les paquets ...",
+        "Link": "https://python.developpez.com/actu/346978/99-pourcent-des-principaux-paquets-Python-sont-maintenant-des-wheels-ce-qui-rendra-plus-rapide-l-installation-pour-les-paquets-purement-Python/",
+        "Snippet": "4 août 2023 — Python wheel est un format de paquetage binaire préconstruit pour les modules et les bibliothèques Python. Elles sont conçues pour faciliter ..."
       },
       {
-        "Title": "La meilleure façon d'apprendre Python 2024 (tutoriels ... - Kinsta",
-        "Link": "https://kinsta.com/fr/blog/facon-d-apprendre-python/#:~:text=L'un%20des%20meilleurs%20endroits,la%20programmation%20et%20%C3%A0%20Python.",
-        "Snippet": ""
+        "Title": "Packaging Python Projects",
+        "Link": "https://packaging.python.org/tutorials/packaging-projects/",
+        "Snippet": "Tools like pip and build do not actually convert your sources into a distribution package (like a wheel); that job is performed by a build backend. The ..."
       },
       {
-        "Title": "Python (langage)",
-        "Link": "https://fr.wikipedia.org/wiki/Python_(langage)",
-        "Snippet": "Python (prononcé /pi.tɔ̃/) est un langage de programmation interprété, multiparadigme et multiplateformes. Il favorise la programmation impérative structurée ..."
+        "Title": "PEP 427 – The Wheel Binary Package Format 1.0",
+        "Link": "https://peps.python.org/pep-0427/",
+        "Snippet": "Abstract. This PEP describes a built-package format for Python called “wheel”. A wheel is a ZIP-format archive with a specially formatted file name and the ..."
       },
       {
-        "Title": "Apprenez les bases du langage Python",
-        "Link": "https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python",
-        "Snippet": "Python est très demandé et accessible pour les débutants. Apprenez à coder avec Python pour écrire des programmes simples mais puissants, ..."
+        "Title": "What is a Python wheel?",
+        "Link": "https://www.geeksforgeeks.org/what-is-a-python-wheel/",
+        "Snippet": "23 jan. 2023 — Python wheels are a pre-built binary package format for Python modules and libraries. They are designed to make it easier to install and ..."
       },
       {
-        "Title": "Python Tutorial",
-        "Link": "https://www.w3schools.com/python/",
-        "Snippet": "Learn Python. Python is a popular programming language. Python can be used on a server to create web applications. Start learning Python now » ..."
+        "Title": "pip wheel - pip documentation v24.0",
+        "Link": "https://pip.pypa.io/en/stable/cli/pip_wheel/",
+        "Snippet": "Build wheels for a requirement (and all its dependencies), and then install. Unix/macOS. python -m pip wheel --wheel-dir=/tmp/wheelhouse SomePackage python -m ..."
       },
       {
-        "Title": "بايثون (لغة برمجة)",
-        "Link": "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)",
-        "Snippet": "بايثون (بالإنجليزية: Python)‏ هي لغة برمجة، عالية المستوى سهلة التعلم مفتوحة المصدر قابلة للتوسيع، تعتمد أسلوب البرمجة الكائنية. لغة بايثون هي لغة مُفسَّرة، ..."
+        "Title": "wheel — wheel 0.43.0 documentation",
+        "Link": "https://wheel.readthedocs.io/",
+        "Snippet": "A command line tool for working with wheel files. Quickstart · Installation · Python and OS Compatibility · User Guide · Building Wheels · Including license ..."
       },
       {
-        "Title": "Apprendre Python et s'initier à la programmation",
-        "Link": "https://python.developpez.com/tutoriels/apprendre-programmation-python/les-bases/?page=le-langage-python",
-        "Snippet": "L'exécution d'un programme Python se fait à l'aide d'un interpréteur. Il s'agit d'un programme qui va traduire les instructions écrites en Python en langage ..."
+        "Title": "A Step-by-Step Guide to Building Python Wheels",
+        "Link": "https://medium.com/@jonathan.hoffman91/a-step-by-step-guide-to-building-python-wheels-4ed8160809a2",
+        "Snippet": "A Step-by-Step Guide to Building Python Wheels — Old and the New Way · Prerequisites · Setting up Your Python Package · Building the Wheel."
       },
       {
-        "Title": "Python 🐍 : Focus sur le langage le plus populaire",
-        "Link": "https://datascientest.com/python-tout-savoir",
-        "Snippet": "17 avr. 2023 — Python est le langage de programmation informatique le plus populaire et le plus utilisé, notamment dans le domaine de la Data Science et du ..."
+        "Title": "pypa/wheel: The official binary distribution format for Python",
+        "Link": "https://github.com/pypa/wheel",
+        "Snippet": "The official binary distribution format for Python - pypa/wheel."
       },
       {
-        "Title": "des fondamentaux aux concepts avancés du langage - Cours",
-        "Link": "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/",
-        "Snippet": "Dans ce cours, vous apprendrez à bien programmer en Python. On vous mènera des premiers pas dans le langage à l'étude des concepts les plus évolués, ..."
+        "Title": "Packaging and distributing projects",
+        "Link": "https://packaging.python.org/guides/distributing-packages-using-setuptools/",
+        "Snippet": "14 déc. 2023 — To install a Python package in “editable”/”development” mode Change directory to the root of the project directory and run: python3 -m pip ..."
       },
       {
-        "Title": "Télécharger Python - Utilitaires, Développement",
-        "Link": "https://www.lesnumeriques.com/telecharger/python-20524",
-        "Snippet": "Python est un langage de programmation open source et orienté objet disponible sur Linux macOS et Windows. Le kit de développement comprend tous les outils ..."
+        "Title": "wheel 0.22.0",
+        "Link": "https://pypi.org/project/wheel/0.22.0/",
+        "Snippet": "A built-package format for Python. A wheel is a ZIP-format archive with a specially formatted filename and the .whl extension. It is designed to contain all the ..."
       },
       {
-        "Title": "Lancez votre premier programme Python",
-        "Link": "https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python/7289426-lancez-votre-premier-programme-python",
-        "Snippet": "21 jui. 2021 — En résumé · Python est un langage populaire chez les débutants et les développeurs experts, car il est facile à lire et polyvalent. · Vous ..."
+        "Title": "How to install, download and build Python wheels",
+        "Link": "https://www.activestate.com/resources/quick-reads/python-install-wheel/",
+        "Snippet": "3 sept. 2021 — How to Build Python Wheels · Make sure Wheel and the latest version of setuptools is installed on your system by running: python -m pip install ..."
       },
       {
-        "Title": "Programmation Python",
-        "Link": "https://fr.wikibooks.org/wiki/Programmation_Python",
-        "Snippet": "Programmation Python ... Python est un langage de script multi-paradigme et multi-usage. Avancement. Terminé. Classement CDU."
+        "Title": "Use a Python wheel file in a Databricks job",
+        "Link": "https://docs.databricks.com/en/workflows/jobs/how-to/use-python-wheels-in-workflows.html",
+        "Snippet": "il y a 6 jours — Use a Python wheel file in a Databricks job · Step 1: Create a local directory for the example · Step 2: Create the example Python script · Step ..."
       },
       {
-        "Title": "Qu'est-ce que Python ? – Le langage Python expliqué",
-        "Link": "https://aws.amazon.com/fr/what-is/python/",
-        "Snippet": "Python est un langage interprété, ce qui signifie qu'il exécute directement le code ligne par ligne. S'il y a des erreurs dans le code du programme, celui-ci s' ..."
+        "Title": "Installing Packages - Python Packaging User Guide",
+        "Link": "https://packaging.python.org/tutorials/installing-packages/",
+        "Snippet": "The most common usage of pip is to install from the Python Package Index using a requirement specifier. Generally speaking, a requirement specifier is composed ..."
       },
       {
-        "Title": "Introduction to Python",
-        "Link": "https://www.w3schools.com/python/python_intro.asp",
-        "Snippet": "What can Python do? · Python can be used on a server to create web applications. · Python can be used alongside software to create workflows. · Python can ..."
+        "Title": "Packaging Python modules with wheels",
+        "Link": "https://opensource.com/article/23/1/packaging-python-modules-wheels",
+        "Snippet": "27 jan. 2023 — Python wheels. Wheels are ZIP archives with the file ending .whl . A wheel may contain binaries, scripts, or plain Python files. If a wheel ..."
       },
       {
-        "Title": "Python - Glossaire MDN : définitions des termes du Web",
-        "Link": "https://developer.mozilla.org/fr/docs/Glossary/Python",
-        "Snippet": "16 oct. 2023 — Python est un langage de programmation de haut-niveau, pour tous usages. Il possède une approche multi-paradigme et supporte donc des formes ..."
+        "Title": "Python PIP",
+        "Link": "https://www.w3schools.com/python/python_pip.asp",
+        "Snippet": "Python PIP · What is PIP? PIP is a package manager for Python packages, or modules if you like. · What is a Package? A package contains all the files you need ..."
       },
       {
-        "Title": "Définition | Python - Futura-Sciences",
-        "Link": "https://www.futura-sciences.com/tech/definitions/informatique-python-19349/",
-        "Snippet": "10 mai 2021 — Le langage Python est un langage de programmation open source multi-plateformes et orienté objet. Grâce à des bibliothèques spécialisées, Python ..."
+        "Title": "Available Python wheels - Alliance Doc",
+        "Link": "https://docs.alliancecan.ca/wiki/Available_Python_wheels",
+        "Snippet": "Available Python wheels ... This site replaces the former Compute Canada documentation site, and is now being managed by the Digital Research Alliance of Canada."
       },
       {
-        "Title": "Learn Python - Free Interactive Python Tutorial",
-        "Link": "https://www.learnpython.org/",
-        "Snippet": "learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast."
+        "Title": "Chapter 39 - Python wheels",
+        "Link": "https://python101.pythonlibrary.org/chapter39_wheels.html",
+        "Snippet": "Python's first mainstream packaging format was the .egg file. Now there's a new format in town called the wheel (.whl). According to the Python Packaging ..."
       },
       {
-        "Title": "Langage Python : c'est quoi ? Que peut-on faire avec en ...",
-        "Link": "https://www.data-bird.co/blog/langage-python",
-        "Snippet": "12 avr. 2024 — Un langage puissant et polyvalent · créer et administrer un site Web · développer des logiciels et des applications, aussi bien pour ordinateur ..."
+        "Title": "debarron/python-wheel-file-tutorial: An example on how to ...",
+        "Link": "https://github.com/debarron/python-wheel-file-tutorial",
+        "Snippet": "Create the wheel. In the directory YOUR_ROOT run python setup.py bdist_wheel --universal . After that your wheel file will be created under the dist/ folder."
       },
       {
-        "Title": "Qu'est-ce que Python ? Explications et utilité pour les projets ...",
-        "Link": "https://blog.hubspot.fr/website/python",
-        "Snippet": "24 juil. 2023 — Python permet de développer des projets d'applications web. Python est majoritairement utilisé en programmation backend, c'est-à-dire qu'il sert ..."
+        "Title": "python - What are wheels used for, and why are they ...",
+        "Link": "https://stackoverflow.com/questions/38547651/what-are-wheels-used-for-and-why-are-they-helpful-in-the-context-of-installing",
+        "Snippet": "One of the advantages of Wheel is that its naming conventions allow you to specify whether your distribution is intended for a specific ..."
       },
       {
-        "Title": "Apprendre à coder avec Python - Cours",
-        "Link": "https://www.fun-mooc.fr/fr/cours/apprendre-a-coder-avec-python/",
-        "Snippet": "Plan de cours · Module 1 : Bienvenue dans l'environnement Python 3. Installation de Python 3 et PyCharm sur votre ordinateur · Module 2 : Python comme machine à ..."
+        "Title": "Building Python Wheels",
+        "Link": "https://docs.vtk.org/en/latest/advanced/build_python_wheels.html",
+        "Snippet": "Building Python Wheels#. Tip. For complete build instructions see here. VTK also supports creating a Python wheel containing its Python wrappers for Python3."
       },
       {
-        "Title": "Python Courses & Tutorials",
-        "Link": "https://www.codecademy.com/catalog/language/python",
-        "Snippet": "Start your coding journey with Python courses and tutorials. From basic to advanced projects, grow your Python skills at Codecademy."
+        "Title": "Building Python Wheel :: CC 410 Textbook",
+        "Link": "https://textbooks.cs.ksu.edu/cc410/ii-gui/15-releases/07-building-wheel/index.html",
+        "Snippet": "Building Python Wheel · Create Pyproject.toml · Create README.md · Create a LICENSE file · Add Typing Files · Configure Metadata · Adding Test Files."
       },
       {
-        "Title": "Python",
-        "Link": "https://github.com/python",
-        "Snippet": "Repositories related to the Python Programming language - Python."
+        "Title": "Install Python packages from wheel (.whl) files",
+        "Link": "https://sentry.io/answers/install-python-packages-from-wheel-whl-files/",
+        "Snippet": "15 nov. 2023 — The Solution. Wheel files with the extension .whl are built distributions of Python packages designed to facilitate quick and easy installation."
       },
       {
-        "Title": "Python : définition et utilisation de ce langage informatique",
-        "Link": "https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445304-python-definition-et-utilisation-de-ce-langage-informatique/",
-        "Snippet": "31 mar. 2020 — Python est le langage de programmation open source le plus employé par les informaticiens. Ce langage s'est propulsé en tête de la gestion d' ..."
+        "Title": "Use a Python wheel file in an Azure Databricks job",
+        "Link": "https://learn.microsoft.com/en-us/azure/databricks/workflows/jobs/how-to/use-python-wheels-in-workflows",
+        "Snippet": "il y a 6 jours — Use a Python wheel file in an Azure Databricks job · Step 1: Create a local directory for the example · Step 2: Create the example Python script."
       },
       {
-        "Title": "PyPI · The Python Package Index",
-        "Link": "https://pypi.org/",
-        "Snippet": "The Python Package Index (PyPI) is a repository of software for the Python programming language."
+        "Title": "Python Wheel | Easy Software Packaging and Distribution",
+        "Link": "https://ioflood.com/blog/python-wheel/",
+        "Snippet": "13 sept. 2023 — Wheels are binary distribution packages, meaning they include compiled code. This allows for faster installations compared to source ..."
       },
       {
-        "Title": "Club des développeurs Python : actualités, cours, tutoriels, faq ...",
-        "Link": "https://python.developpez.com/",
-        "Snippet": "Club des développeurs Python : actualités, cours, tutoriels, faq, sources, forum."
+        "Title": "Python wheel – Don't reinvent it, just use it.",
+        "Link": "https://www.ginkgo-analytics.com/python-wheel-dont-reinvent-it-just-use-it/",
+        "Snippet": "18 juil. 2022 — The Python wheel in a nutshell… · wheels install faster than source distributions for both pure-Python packages and extension modules · wheels ..."
       },
       {
-        "Title": "Programming for Everybody (Getting Started with Python)",
-        "Link": "https://www.coursera.org/learn/python",
-        "Snippet": "Offered by University of Michigan. This course aims to teach everyone the basics of programming computers using Python. We cover the basics ."
+        "Title": "piwheels - Home",
+        "Link": "https://www.piwheels.org/",
+        "Snippet": "piwheels is a Python package repository providing Arm platform wheels (pre-compiled binary Python packages) specifically for the Raspberry Pi, making pip ..."
       },
       {
-        "Title": "Real Python: Python Tutorials",
-        "Link": "https://realpython.com/",
-        "Snippet": "Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more."
+        "Title": "How to build a Python wheel package from the main ...",
+        "Link": "https://www.linkedin.com/pulse/how-build-python-wheel-package-from-main-branch-adrian-boguszewski",
+        "Snippet": "How to compile OpenVINO™ and build the Python package? A step-by-step walkthrough · 1. Set up Docker. The very first step is to install Docker."
       },
       {
-        "Title": "Laboratoire Python | Lelivrescolaire.fr",
-        "Link": "https://www.lelivrescolaire.fr/outils/console-python",
-        "Snippet": "Apprendre le code passe par la pratique ! Retrouvez une console Python ainsi que des ressources pour travailler efficacement l'algorithmique avec vos ..."
+        "Title": "Glossary - Python Packaging User Guide",
+        "Link": "https://packaging.python.org/en/latest/glossary/",
+        "Snippet": "il y a 5 jours — A specification for a package to be installed. pip, the PYPA recommended installer, allows various forms of specification that can all be ..."
       },
       {
-        "Title": "Learn Python",
-        "Link": "https://www.kaggle.com/learn/python",
-        "Snippet": "Learn the most important language for data science."
+        "Title": "python-wheel 0.43.0-4 (any)",
+        "Link": "https://archlinux.org/packages/extra/any/python-wheel/",
+        "Snippet": "Dependencies (13) · python-packaging · python-keyring (optional) - for wheel.signatures · python-xdg (python-pyxdg) (optional) - for wheel.signatures · python- ..."
       },
       {
-        "Title": "Python language de programmation apprendre cours ...",
-        "Link": "https://python.doctor/",
-        "Snippet": "Python est un langage facile à apprendre et son code est plus lisible, il est donc plus facile à maintenir. Il est parfois jusqu'à 5 fois plus concis que le ..."
+        "Title": "wheel - Python Package Health Analysis",
+        "Link": "https://snyk.io/advisor/python/wheel",
+        "Snippet": "Is wheel safe to use? Security issues were found while scanning the latest version of wheel, and a total of 0 vulnerabilities were detected. It is highly ..."
       },
       {
-        "Title": "Python Syntax",
-        "Link": "https://www.w3schools.com/python/python_syntax.asp",
-        "Snippet": "Execute Python Syntax. As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line: >>> print(\"Hello, World!\")"
+        "Title": "Creating a Wheel for Python Package",
+        "Link": "https://www.askpython.com/python/examples/wheel-for-python-package",
+        "Snippet": "29 juil. 2023 — Just simply open the 'dist' directory, and there it is, your very own wheel which you could easily import from anywhere on your computer. To ..."
       },
       {
-        "Title": "Python - Visual Studio Marketplace",
-        "Link": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
-        "Snippet": "Quick start · Step 1. Install a supported version of Python on your system (note: that the system install of Python on macOS is not supported). · Step 2."
+        "Title": "Create a Python Wheel File to Package and Distribute ...",
+        "Link": "https://www.mssqltips.com/sqlservertip/6802/create-wheel-file-python-package-distribute-custom-code/",
+        "Snippet": "Install Application Software · Install Visual Studio Code · Install Python Extension for Visual Studio Code · Install Python 3.9.0 · Configure Python ..."
       },
       {
-        "Title": "PythonAnywhere: Host, run, and code Python in the cloud",
-        "Link": "https://www.pythonanywhere.com/",
-        "Snippet": "PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web-based editor or just run a console session ..."
+        "Title": "Release Notes — wheel 0.43.0 documentation",
+        "Link": "https://wheel.readthedocs.io/en/stable/news.html",
+        "Snippet": "Release Notes¶. 0.43.0 (2024-03-11). Dropped support for Python 3.7. Updated vendored packaging to 24.0. 0.42.0 (2023-11-26)."
       },
       {
-        "Title": "Google's Python Class | Python Education",
-        "Link": "https://developers.google.com/edu/python",
-        "Snippet": "17 jan. 2023 — Google's Python Class ... Welcome to Google's Python Class -- this is a free class for people with a little bit of programming experience who want ..."
+        "Title": "Build TensorFlow Lite Python Wheel Package",
+        "Link": "https://www.tensorflow.org/lite/guide/build_cmake_pip",
+        "Snippet": "16 mai 2023 — Prerequisites. You need CMake installed and a copy of the TensorFlow source code. Please check Build TensorFlow Lite with CMake page for the ..."
       },
       {
-        "Title": "Python - Télécharger",
-        "Link": "https://python.fr.softonic.com/",
-        "Snippet": "24 jui. 2023 — Python est l'un des fleurons du logiciel libre et open source. Il est même à la base d'un grand nombre d'entre eux. Cela signifie qu'il est ..."
+        "Title": "Compiling Python Wheels",
+        "Link": "https://wiki.osuosl.org/howtos/wheels.html",
+        "Snippet": "To compile a wheel, pip , gcc , libffi , the and the Python development headers are needed. Other dependencies might be needed; for example, cryptographic ..."
       },
       {
-        "Title": "Get Started Tutorial for Python in Visual Studio Code",
-        "Link": "https://code.visualstudio.com/docs/python/python-tutorial",
-        "Snippet": "Getting Started with Python in VS Code · Prerequisites · Install a Python interpreter · Start VS Code in a workspace folder · Create a virtual environment."
+        "Title": "What is a wheel in python",
+        "Link": "https://stackoverflow.com/questions/62971237/what-is-a-wheel-in-python",
+        "Snippet": "@SebMa - Yes, wheel is a binary package as defined in PEP427. It will hold platform independent .py files and if there is a need for compiling C ..."
       },
       {
-        "Title": "Python Tutorial | Learn Python Programming",
-        "Link": "https://www.geeksforgeeks.org/python-programming-language/",
-        "Snippet": "9 avr. 2024 — Python offers, enabling you to manipulate and manage data with precision and flexibility. Additionally, we'll delve into the dynamic world of ..."
+        "Title": "358 most popular Python packages have wheels",
+        "Link": "https://discuss.python.org/t/358-most-popular-python-packages-have-wheels/43558",
+        "Snippet": "18 jan. 2024 — There are now 358 out of 360 most popular python packages have wheels available. https://pythonwheels.com/ The 2 non-wheel packages are ..."
       },
       {
-        "Title": "Online Python Compiler (Interpreter)",
-        "Link": "https://www.programiz.com/python-programming/online-compiler/",
-        "Snippet": "Write and run Python code using our online compiler (interpreter). You can use Python Shell like IDLE, and take inputs from the user in our Python compiler."
+        "Title": "Python wheel development",
+        "Link": "https://www.opengeosys.org/docs/devguide/advanced/python-wheel/",
+        "Snippet": "18 mar. 2024 — The pip install -step starts a new CMake-based ogs build in _skbuild -subdirectory (inside the source code) using the wheel -preset. When the ..."
       },
       {
-        "Title": "Python Programming Language",
-        "Link": "https://cloud.google.com/python",
-        "Snippet": "Python on Google Cloud integrates with Cloud Monitoring, Cloud Trace, Cloud Logging, and Error Reporting, allowing you to transparently instrument live ..."
+        "Title": "Debian -- Package Search Results -- python-wheel",
+        "Link": "https://packages.debian.org/python-wheel",
+        "Snippet": "Package python-wheel-common · buster (oldoldstable) (python): built-package format for Python · bullseye (oldstable) (python): built-package format for Python ( ..."
       },
       {
-        "Title": "Best Online Python Courses and Programs",
-        "Link": "https://www.edx.org/learn/python",
-        "Snippet": "What is covered in a Python tutorial? · Data analysis with packages such as pandas and NumPy · Data visualization using matplotlib or Seaborn · Machine learning ..."
+        "Title": "Package Search Results -- python-wheel",
+        "Link": "https://packages.ubuntu.com/python-wheel",
+        "Snippet": "Package python-wheel-common · focal (20.04LTS) (python): built-package format for Python (command-line scripts) [universe] · focal-updates (python): built- ..."
       },
       {
-        "Title": "Learn Python 2",
-        "Link": "https://www.codecademy.com/learn/learn-python",
-        "Snippet": "Learn Python 2. Learn the basics of the world's fastest growing and most popular programming language used by software engineers, analysts, data scientists, and ..."
+        "Title": "Platform compatibility tags",
+        "Link": "https://packaging.python.org/en/latest/specifications/platform-compatibility-tags/",
+        "Snippet": "The wheel built package format includes these tags in its filenames, of the form {distribution}-{version}(-{build tag})?-{python tag}-{abitag}-{platform tag}."
       },
       {
-        "Title": "Python: Définition, Exemples, Fonctionnement",
-        "Link": "https://24pm.com/117-definitions/469-python",
-        "Snippet": "4 oct. 2019 — Python est un langage de programmation interprétation, de haut niveau, à usage général. Créée par Guido van Rossum et publié pour la première ..."
+        "Title": "python-wheel",
+        "Link": "https://packagehub.suse.com/packages/python-wheel/",
+        "Snippet": "Development/Languages/Python. A built-package format for Python. A wheel is a ZIP-format archive with a specially formatted filename and the .whl extension. It ..."
       },
       {
-        "Title": "Python Programming Language",
-        "Link": "https://play.google.com/store/apps/details?id=info.camposha.python&hl=ln",
-        "Snippet": "Greetings, Welcome to Python Programming Language App. Python is a high-level, general-purpose programming language. It emphasizes code readability."
+        "Title": "python-wheel 0.40.0",
+        "Link": "https://packages.guix.gnu.org/packages/python-wheel/0.40.0/",
+        "Snippet": "python-wheel 0.40.0 ... A wheel is a ZIP-format archive with a specially formatted filename and the .whl extension. It is designed to contain all the files for a ..."
       },
       {
-        "Title": "Top Python Courses Online - Updated [April 2024]",
-        "Link": "https://www.udemy.com/topic/python/",
-        "Snippet": "Level up your skills with a Python training course from Udemy. See why millions trust our real-world experts to help them become professional Python ..."
+        "Title": "GHA: Pure Python wheels - GitHub Actions",
+        "Link": "https://learn.scientific-python.org/development/guides/gha-pure/",
+        "Snippet": "GitHub Actions: Pure Python wheels · Wheels do not run setup.py , but simply install files into locations. Lower install requirements - users don't need your ..."
       },
       {
-        "Title": "Cours de Python",
-        "Link": "https://python.sdv.univ-paris-diderot.fr/",
-        "Snippet": "Cours de Python¶ ... Couverture livre Dunod. Notre livre « Programmation en Python pour les sciences de la vie » est paru aux éditions Dunod ! Vous le trouverez ..."
+        "Title": "Développer un fichier wheel Python à l'aide de packs ...",
+        "Link": "https://learn.microsoft.com/fr-fr/azure/databricks/dev-tools/bundles/python-wheel",
+        "Snippet": "23 avr. 2024 — Pour générer un fichier wheel Python avec Poetry ou setuptools , puis référencer ce fichier wheel Python dans un pipeline Delta Live Tables, ..."
       },
       {
-        "Title": "SciPy -",
-        "Link": "https://scipy.org/",
-        "Snippet": "SciPy SciPy logo. A blue circle with a snake in the shape of the letter '. Fundamental algorithms for scientific computing in Python."
+        "Title": "Python Wheel",
+        "Link": "https://unogeeks.com/python-wheel/",
+        "Snippet": "Wheels have the .whl file extension and can be installed using the pip package manager, which is the standard package manager for Python. When you install a ..."
       },
       {
-        "Title": "Python for beginners - Training",
-        "Link": "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
-        "Snippet": "Learn the basics of Python, including how to use Jupyter notebooks, create programs and projects, and work with strings, math, lists, loops, dictionaries, ..."
+        "Title": "Beginner's guide to create Python Wheel | by Vivek Atal",
+        "Link": "https://medium.com/swlh/beginners-guide-to-create-python-wheel-7d45f8350a94",
+        "Snippet": "Go to your command prompt/ conda prompt from where you can run python and pip commands, if not sure then check this link. Change directory in ..."
       },
       {
-        "Title": "Ressources Python - Apprentissage de la programmation",
-        "Link": "https://inforef.be/swi/python.htm",
-        "Snippet": "Quelques règles de syntaxe Python. Boucles. Réaffectation. Premiers scripts, ou : comment conserver nos programmes ? Principaux types de données. Les listes ( ..."
+        "Title": "Package: python-pip-wheel",
+        "Link": "https://cygwin.com/packages/summary/python-pip-wheel.html",
+        "Snippet": "Cygwin · Package: python-pip-wheel. summary: Python package installation tool."
       },
       {
-        "Title": "Online Python - IDE, Editor, Compiler, Interpreter",
-        "Link": "https://www.online-python.com/",
-        "Snippet": "Build and Run your Python code instantly. Online-Python is a quick and easy tool that helps you to build, compile, test your python programs."
+        "Title": "wheel Documentation",
+        "Link": "https://media.readthedocs.org/pdf/wheel/stable/wheel.pdf",
+        "Snippet": "11 mar. 2024 — The wheel will go to dist/yourproject-<tags>.whl. If you want to make universal (Python 2/3 compatible, pure Python) wheels, add the following ..."
       },
       {
-        "Title": "Python Institute - PROGRAM YOUR FUTURE",
-        "Link": "https://pythoninstitute.org/",
-        "Snippet": "Fabio Miguel Blaska da Fonseca ... I recommend the Python Essentials course because of its didactic methodology, and the exercises and labs which provide students ..."
+        "Title": "What is a Python wheel?",
+        "Link": "https://www.quora.com/What-is-a-Python-wheel",
+        "Snippet": "Wheels are a newer package type for modules in python. · In older times installing a python package using pip or easy install could require you ..."
       },
       {
-        "Title": "MicroPython - Python for microcontrollers",
-        "Link": "https://micropython.org/",
-        "Snippet": "MicroPython is a full Python compiler and runtime that runs on the bare-metal. You get an interactive prompt (the REPL) to execute commands immediately, along ..."
+        "Title": "Wheel builder",
+        "Link": "https://hatch.pypa.io/1.10/plugins/builder/wheel/",
+        "Snippet": "A wheel is a binary distribution of a Python package that can be installed directly into an environment. ... Whether or not on macOS, when build hooks have set ..."
       },
       {
-        "Title": "python/cpython: The Python programming language",
-        "Link": "https://github.com/python/cpython",
-        "Snippet": "The Python programming language. Contribute to python/cpython development by creating an account on GitHub."
+        "Title": "Installing pip/setuptools/wheel with Linux Package Managers",
+        "Link": "https://packaging.python.org/guides/installing-using-linux-tools/",
+        "Snippet": "26 juil. 2021 — This section covers how to install pip, Setuptools, and wheel using Linux package managers. If you're using a Python that was downloaded from ..."
       },
       {
-        "Title": "Python Tutorial",
-        "Link": "https://www.tutorialspoint.com/python/index.htm",
-        "Snippet": "Characteristics of Python · It supports functional and structured programming methods as well as OOP. · It can be used as a scripting language or can be ..."
-      },
-      {
-        "Title": "Qu'est-ce que le langage Python - Styrel",
-        "Link": "https://www.styrel.fr/fr/python-langage-programmation-interprete",
-        "Snippet": "Il fonctionne sur la pluspart des systèmes d'exploitation du marché comme Linux, macOs et Windows. Le Python est vite devenu un langage associé au Big Data, à ..."
+        "Title": "Python Wheels :: CC 410 Textbook",
+        "Link": "https://textbooks.cs.ksu.edu/cc410/ii-gui/14-libraries/10-python-wheels/index.html",
+        "Snippet": "24 août 2021 — Python typically uses a special type of file called a Wheel to create a downloadable package that contains Python source code and any additional ..."
       }
     ],
     "questions": [
-      "Quel est le rôle de Python ?",
-      "C'est quoi le langage Python ?",
-      "Qu'est-ce qu'on peut coder en Python ?",
-      "Comment maîtriser le langage Python ?"
+      "What is a wheel in Python?",
+      "What is the difference between egg and wheel Python?",
+      "Are Python wheels platform specific?",
+      "How to install Python wheel package in Windows?"
     ],
+    "related_searches": [],
     "SearchEngine": "Google"
   }
 ]
