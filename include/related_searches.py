@@ -2,16 +2,17 @@ class RelatedSearches:
 
     @staticmethod
     def getRelatedSearches(soup):
-        related_searches = []  # Initialize an empty list to store questions
+        related_searches = []  
         if soup:
-            soup = soup.find('div', {'class': 'y6Uyqe'})
+            soup = soup.find('div', {'class': 'ULSxyf'})
             if soup:  # Check if elements exist
-                elements = soup.find_all('div', {'data-hveid': 'CEwQAA'})  # Use find_all in N760 container
+                elements = soup.find_all('div', {'class': 'y6Uyqe'})  
                 for element in elements:
-                    related = element.find('div', {'class': 's75CSd'})  # Find the div containing the question
-                    related = related.text.strip() if related else None  # Extract the question text
-                    if related:  # Only append if question is found
-                        related_searches.append(related)
+                    links = element.find_all('a', {'class': 'ngTNl'})
+                    for link in links:
+                        href = link.get('href')
+                        related_searches.append({str(link.getText()).strip() : href})
         else:
             print("Error: soup variable is None")
         return related_searches
+        
