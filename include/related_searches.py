@@ -11,7 +11,7 @@ class RelatedSearches:
                     links = element.find_all('a', {'class': 'ngTNl'})
                     for link in links:
                         href = link.get('href')
-                        related_searches.append(href)
+                        related_searches.append({str(link.getText()).strip() : href})
         else:
             print("Error: soup variable is None")
         return related_searches
