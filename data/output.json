@@ -32,14 +32,14 @@
         "Snippet": "Build and Run your Python code instantly. Online-Python is a quick and easy tool that helps you to build, compile, test your python programs."
       },
       {
-        "Title": "des fondamentaux aux concepts avancés du langage - Cours",
-        "Link": "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/",
-        "Snippet": "Dans ce cours, vous apprendrez à bien programmer en Python. On vous mènera des premiers pas dans le langage à l'étude des concepts les plus évolués, ..."
-      },
-      {
         "Title": "Python 🐍 : Focus sur le langage le plus populaire",
         "Link": "https://datascientest.com/python-tout-savoir",
         "Snippet": "17 avr. 2023 — Python est le langage de programmation informatique le plus populaire et le plus utilisé, notamment dans le domaine de la Data Science et du ..."
+      },
+      {
+        "Title": "des fondamentaux aux concepts avancés du langage - Cours",
+        "Link": "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/",
+        "Snippet": "Dans ce cours, vous apprendrez à bien programmer en Python. On vous mènera des premiers pas dans le langage à l'étude des concepts les plus évolués, ..."
       },
       {
         "Title": "بايثون (لغة برمجة)",
@@ -50,11 +50,6 @@
         "Title": "Apprendre Python et s'initier à la programmation",
         "Link": "https://python.developpez.com/tutoriels/apprendre-programmation-python/les-bases/?page=le-langage-python",
         "Snippet": "L'exécution d'un programme Python se fait à l'aide d'un interpréteur. Il s'agit d'un programme qui va traduire les instructions écrites en Python en langage ..."
-      },
-      {
-        "Title": "Lancez votre premier programme Python",
-        "Link": "https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python/7289426-lancez-votre-premier-programme-python",
-        "Snippet": "21 jui. 2021 — Installez Python sur votre ordinateur. L'installation de Python est très simple ! Rendez-vous sur python.org, choisissez votre système d' ..."
       },
       {
         "Title": "Programmation Python",
@@ -70,6 +65,11 @@
         "Title": "Définition | Python - Futura-Sciences",
         "Link": "https://www.futura-sciences.com/tech/definitions/informatique-python-19349/",
         "Snippet": "10 mai 2021 — Le langage Python est un langage de programmation open source multi-plateformes et orienté objet. Grâce à des bibliothèques spécialisées, Python ..."
+      },
+      {
+        "Title": "Lancez votre premier programme Python",
+        "Link": "https://openclassrooms.com/fr/courses/7168871-apprenez-les-bases-du-langage-python/7289426-lancez-votre-premier-programme-python",
+        "Snippet": "21 jui. 2021 — Installez Python sur votre ordinateur. L'installation de Python est très simple ! Rendez-vous sur python.org, choisissez votre système d' ..."
       },
       {
         "Title": "Python : définition et utilisation de ce langage informatique",
@@ -112,14 +112,14 @@
         "Snippet": "The Python Package Index (PyPI) is a repository of software for the Python programming language."
       },
       {
-        "Title": "Learn Python Tutorials",
-        "Link": "https://www.kaggle.com/learn/python",
-        "Snippet": "Learn the most important language for data science."
-      },
-      {
         "Title": "Laboratoire Python | Lelivrescolaire.fr",
         "Link": "https://www.lelivrescolaire.fr/outils/console-python",
         "Snippet": "Apprendre le code passe par la pratique ! Retrouvez une console Python ainsi que des ressources pour travailler efficacement l'algorithmique avec vos ..."
+      },
+      {
+        "Title": "Learn Python Tutorials",
+        "Link": "https://www.kaggle.com/learn/python",
+        "Snippet": "Learn the most important language for data science."
       },
       {
         "Title": "Google's Python Class | Python Education",
@@ -142,14 +142,14 @@
         "Snippet": "Club des développeurs Python : actualités, cours, tutoriels, faq, sources, forum."
       },
       {
+        "Title": "Programming for Everybody (Getting Started with Python)",
+        "Link": "https://www.coursera.org/learn/python",
+        "Snippet": "We cover the basics of how one constructs a program from a series of simple instructions in Python. The course has no pre-requisites and avoids all but the ..."
+      },
+      {
         "Title": "Python - Visual Studio Marketplace",
         "Link": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
         "Snippet": "Quick start · Step 1. Install a supported version of Python on your system (note: that the system install of Python on macOS is not supported). · Step 2."
-      },
-      {
-        "Title": "Python Tutorial | Learn Python Programming",
-        "Link": "https://www.geeksforgeeks.org/python-programming-language/",
-        "Snippet": "9 mai 2024 — Python offers, enabling you to manipulate and manage data with precision and flexibility. Additionally, we'll delve into the dynamic world of ..."
       },
       {
         "Title": "Top Python Courses Online - Updated [May 2024]",
@@ -160,6 +160,11 @@
         "Title": "Python Syntax",
         "Link": "https://www.w3schools.com/python/python_syntax.asp",
         "Snippet": "Execute Python Syntax. As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line: >>> print(\"Hello, World!\")"
+      },
+      {
+        "Title": "Python Tutorial | Learn Python Programming",
+        "Link": "https://www.geeksforgeeks.org/python-programming-language/",
+        "Snippet": "9 mai 2024 — Python offers, enabling you to manipulate and manage data with precision and flexibility. Additionally, we'll delve into the dynamic world of ..."
       },
       {
         "Title": "Python",
@@ -202,9 +207,9 @@
         "Snippet": "Learn Python 2. Learn the basics of the world's fastest growing and most popular programming language used by software engineers, analysts, data scientists, and ..."
       },
       {
-        "Title": "Python - Glossaire MDN : définitions des termes du Web",
-        "Link": "https://developer.mozilla.org/fr/docs/Glossary/Python",
-        "Snippet": "16 oct. 2023 — Python est un langage de programmation de haut-niveau, pour tous usages. Il possède une approche multi-paradigme et supporte donc des formes ..."
+        "Title": "python/cpython: The Python programming language",
+        "Link": "https://github.com/python/cpython",
+        "Snippet": "The Python programming language. Contribute to python/cpython development by creating an account on GitHub."
       },
       {
         "Title": "Python in Visual Studio Code",
@@ -212,9 +217,9 @@
         "Snippet": "Run Python code ... The Python extension then provides shortcuts to run Python code using the currently selected interpreter (Python: Select Interpreter in the ..."
       },
       {
-        "Title": "python/cpython: The Python programming language",
-        "Link": "https://github.com/python/cpython",
-        "Snippet": "The Python programming language. Contribute to python/cpython development by creating an account on GitHub."
+        "Title": "Python - Glossaire MDN : définitions des termes du Web",
+        "Link": "https://developer.mozilla.org/fr/docs/Glossary/Python",
+        "Snippet": "16 oct. 2023 — Python est un langage de programmation de haut-niveau, pour tous usages. Il possède une approche multi-paradigme et supporte donc des formes ..."
       },
       {
         "Title": "Best Online Python Courses and Programs",
@@ -242,16 +247,6 @@
         "Snippet": "Python was created by Guido van Rossum, and first released on February 20, 1991. While you may know the python as a large snake, the name of the Python ..."
       },
       {
-        "Title": "What Is Python Used For? A Beginner's Guide",
-        "Link": "https://www.coursera.org/articles/what-is-python-used-for-a-beginners-guide-to-using-python",
-        "Snippet": "3 avr. 2024 — What is Python used for? Python is commonly used for developing websites and software, task automation, data analysis, and data visualization."
-      },
-      {
-        "Title": "scikit-learn: machine learning in Python — scikit-learn 1.4.2 ...",
-        "Link": "https://scikit-learn.org/",
-        "Snippet": "Machine Learning in Python · Simple and efficient tools for predictive data analysis · Accessible to everybody, and reusable in various contexts · Built on ..."
-      },
-      {
         "Title": "Python for beginners - Training",
         "Link": "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
         "Snippet": "Python for beginners · Write your first program in Python · Explore packages to better manage projects · Learn Python basics, including the following elements:."
@@ -262,9 +257,19 @@
         "Snippet": "Characteristics of Python · It supports functional and structured programming methods as well as OOP. · It can be used as a scripting language or can be ..."
       },
       {
+        "Title": "scikit-learn: machine learning in Python — scikit-learn 1.4.2 ...",
+        "Link": "https://scikit-learn.org/",
+        "Snippet": "Machine Learning in Python · Simple and efficient tools for predictive data analysis · Accessible to everybody, and reusable in various contexts · Built on ..."
+      },
+      {
         "Title": "Python Tutorial",
         "Link": "https://www.pythontutorial.net/",
         "Snippet": "Python Tutorial · Gain basic Python programming concepts. · How to develop real-world Python applications. · Apply Python programming techniques in specific ..."
+      },
+      {
+        "Title": "Learn Python Programming",
+        "Link": "https://www.programiz.com/python-programming",
+        "Snippet": "Learn Python Programming ... Python is one of the top programming languages in the world, widely used in fields such as AI, machine learning, data science, and ..."
       }
     ],
     "questions": [
@@ -274,14 +279,30 @@
       "Comment apprendre le Python seul ?"
     ],
     "related_searches": [
-      "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+online&sa=X&ved=2ahUKEwi9gKXGnJWGAxUZT6QEHeM9BakQ1QJ6BAgeEAE",
-      "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+download&sa=X&ved=2ahUKEwi9gKXGnJWGAxUZT6QEHeM9BakQ1QJ6BAggEAE",
-      "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+serpent&sa=X&ved=2ahUKEwi9gKXGnJWGAxUZT6QEHeM9BakQ1QJ6BAgiEAE",
-      "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+programming&sa=X&ved=2ahUKEwi9gKXGnJWGAxUZT6QEHeM9BakQ1QJ6BAgjEAE",
-      "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+tutorial&sa=X&ved=2ahUKEwi9gKXGnJWGAxUZT6QEHeM9BakQ1QJ6BAgkEAE",
-      "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+cours&sa=X&ved=2ahUKEwi9gKXGnJWGAxUZT6QEHeM9BakQ1QJ6BAglEAE",
-      "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+code&sa=X&ved=2ahUKEwi9gKXGnJWGAxUZT6QEHeM9BakQ1QJ6BAghEAE",
-      "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Langage+Python+cours+PDF&sa=X&ved=2ahUKEwi9gKXGnJWGAxUZT6QEHeM9BakQ1QJ6BAgfEAE"
+      {
+        "Python online": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+online&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAg1EAE"
+      },
+      {
+        "Python download": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+download&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgxEAE"
+      },
+      {
+        "Python serpent": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+serpent&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgqEAE"
+      },
+      {
+        "Python programming": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+programming&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgpEAE"
+      },
+      {
+        "Python tutorial": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+tutorial&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgoEAE"
+      },
+      {
+        "Python cours": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+cours&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgnEAE"
+      },
+      {
+        "Python code": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+code&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAghEAE"
+      },
+      {
+        "Langage Python cours PDF": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Langage+Python+cours+PDF&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAggEAE"
+      }
     ],
     "SearchEngine": "Google"
   }
