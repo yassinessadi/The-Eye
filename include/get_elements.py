@@ -1,4 +1,3 @@
-import time
 from .related_quetions import GetRelatedQuestions
 from .related_searches import RelatedSearches
 from .web_parser import WebScraper
@@ -8,19 +7,6 @@ class GetElements:
     @staticmethod
     def get_page_source(driver):
         return driver.page_source
-
-    @staticmethod
-    def scroll_page(driver, max_scrolls=10):
-        last_scroll_height = driver.execute_script("return document.body.scrollHeight")
-        scrolls = 0
-        while scrolls < max_scrolls:
-            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-            time.sleep(3)
-            new_scroll_height = driver.execute_script("return document.body.scrollHeight")
-            if new_scroll_height == last_scroll_height:
-                break
-            last_scroll_height = new_scroll_height
-            scrolls += 1
 
     @staticmethod
     def extract_elements(source_page, search_engine):
