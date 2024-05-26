@@ -2,7 +2,7 @@ import sys
 import json
 sys.path.append('../')
 
-from include import web_driver, data_handler, get_elements, search_engine, helper, currency_exchange_rate, captcha_handler, user_input
+from include import web_driver,page_scroller, data_handler, get_elements, search_engine, helper, currency_exchange_rate, captcha_handler, user_input
 
 class MainApp:
     def run(self):
@@ -22,7 +22,8 @@ class MainApp:
                 # Check for Google CAPTCHA and wait for manual solving
                 source_page = get_elements.GetElements.get_page_source(driver)
                 captcha_handler.CaptchaHandler.handle_captcha(source_page, 'google')
-                get_elements.GetElements.scroll_page(driver)
+                # page scroller
+                page_scroller.PageScroller.scroll_page(driver=driver)
                 source_page = get_elements.GetElements.get_page_source(driver)
                 search_results_json = get_elements.GetElements.extract_elements(source_page, 'google')
             elif choice == '2':
@@ -30,7 +31,8 @@ class MainApp:
                 # Check for Yandex CAPTCHA and wait for manual solving
                 source_page = get_elements.GetElements.get_page_source(driver)
                 captcha_handler.CaptchaHandler.handle_captcha(source_page, 'yandex')
-                get_elements.GetElements.scroll_page(driver)
+                # page scroller
+                page_scroller.PageScroller.scroll_page(driver=driver)
                 source_page = get_elements.GetElements.get_page_source(driver)
                 search_results_json = get_elements.GetElements.extract_elements(source_page, 'yandex')
             else:
