@@ -22,6 +22,11 @@
         "Snippet": "Learn Python. Python is a popular programming language. Python can be used on a server to create web applications. Start learning Python now » ..."
       },
       {
+        "Title": "بايثون (لغة برمجة)",
+        "Link": "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)",
+        "Snippet": "بايثون (بالإنجليزية: Python)‏ هي لغة برمجة، عالية المستوى سهلة التعلم مفتوحة المصدر قابلة للتوسيع، تعتمد أسلوب البرمجة الكائنية. لغة بايثون هي لغة مُفسَّرة، ..."
+      },
+      {
         "Title": "3. Affichage",
         "Link": "https://python.sdv.univ-paris-diderot.fr/03_affichage/",
         "Snippet": "3.6.4 Écriture formatée¶. En utilisant l'écriture formatée, affichez en une seule ligne les variables a , b et c dont les valeurs sont respectivement la chaîne ..."
@@ -32,19 +37,14 @@
         "Snippet": "Build and Run your Python code instantly. Online-Python is a quick and easy tool that helps you to build, compile, test your python programs."
       },
       {
-        "Title": "Python 🐍 : Focus sur le langage le plus populaire",
-        "Link": "https://datascientest.com/python-tout-savoir",
-        "Snippet": "17 avr. 2023 — Python est le langage de programmation informatique le plus populaire et le plus utilisé, notamment dans le domaine de la Data Science et du ..."
-      },
-      {
         "Title": "des fondamentaux aux concepts avancés du langage - Cours",
         "Link": "https://www.fun-mooc.fr/fr/cours/python-3-des-fondamentaux-aux-concepts-avances-du-langage/",
         "Snippet": "Dans ce cours, vous apprendrez à bien programmer en Python. On vous mènera des premiers pas dans le langage à l'étude des concepts les plus évolués, ..."
       },
       {
-        "Title": "بايثون (لغة برمجة)",
-        "Link": "https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%8A%D8%AB%D9%88%D9%86_(%D9%84%D8%BA%D8%A9_%D8%A8%D8%B1%D9%85%D8%AC%D8%A9)",
-        "Snippet": "بايثون (بالإنجليزية: Python)‏ هي لغة برمجة، عالية المستوى سهلة التعلم مفتوحة المصدر قابلة للتوسيع، تعتمد أسلوب البرمجة الكائنية. لغة بايثون هي لغة مُفسَّرة، ..."
+        "Title": "Python 🐍 : Focus sur le langage le plus populaire",
+        "Link": "https://datascientest.com/python-tout-savoir",
+        "Snippet": "17 avr. 2023 — Python est le langage de programmation informatique le plus populaire et le plus utilisé, notamment dans le domaine de la Data Science et du ..."
       },
       {
         "Title": "Apprendre Python et s'initier à la programmation",
@@ -57,14 +57,14 @@
         "Snippet": "Programmation Python ... Python est un langage de script multi-paradigme et multi-usage. Avancement. Terminé. Classement CDU."
       },
       {
+        "Title": "Laboratoire Python",
+        "Link": "https://www.lelivrescolaire.fr/outils/console-python",
+        "Snippet": "Apprendre le code passe par la pratique ! Retrouvez une console Python ainsi que des ressources pour travailler efficacement l'algorithmique avec vos ..."
+      },
+      {
         "Title": "Introduction to Python",
         "Link": "https://www.w3schools.com/python/python_intro.asp",
         "Snippet": "What can Python do? · Python can be used on a server to create web applications. · Python can be used alongside software to create workflows. · Python can ..."
-      },
-      {
-        "Title": "Définition | Python - Futura-Sciences",
-        "Link": "https://www.futura-sciences.com/tech/definitions/informatique-python-19349/",
-        "Snippet": "10 mai 2021 — Le langage Python est un langage de programmation open source multi-plateformes et orienté objet. Grâce à des bibliothèques spécialisées, Python ..."
       },
       {
         "Title": "Lancez votre premier programme Python",
@@ -77,9 +77,14 @@
         "Snippet": "31 mar. 2020 — Python est le langage de programmation open source le plus employé par les informaticiens. Ce langage s'est propulsé en tête de la gestion d' ..."
       },
       {
-        "Title": "Python Courses & Tutorials",
-        "Link": "https://www.codecademy.com/catalog/language/python",
-        "Snippet": "Start your coding journey with Python courses and tutorials. From basic to advanced projects, grow your Python skills at Codecademy."
+        "Title": "Real Python: Python Tutorials",
+        "Link": "https://realpython.com/",
+        "Snippet": "Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more."
+      },
+      {
+        "Title": "Définition | Python - Futura Sciences",
+        "Link": "https://www.futura-sciences.com/tech/definitions/informatique-python-19349/",
+        "Snippet": "10 mai 2021 — Le langage Python est un langage de programmation open source multi-plateformes et orienté objet. Grâce à des bibliothèques spécialisées, Python ..."
       },
       {
         "Title": "Apprendre à coder avec Python - Cours",
@@ -92,14 +97,9 @@
         "Snippet": "24 juil. 2023 — Python permet de développer des projets d'applications web. Python est majoritairement utilisé en programmation backend, c'est-à-dire qu'il sert ..."
       },
       {
-        "Title": "Cours de Python",
-        "Link": "https://python.sdv.univ-paris-diderot.fr/",
-        "Snippet": "Cours de Python¶ ... Couverture livre Dunod. Notre livre « Programmation en Python pour les sciences de la vie » est paru aux éditions Dunod ! Vous le trouverez ..."
-      },
-      {
-        "Title": "Real Python: Python Tutorials",
-        "Link": "https://realpython.com/",
-        "Snippet": "Learn Python online: Python tutorials for developers of all skill levels, Python books and courses, Python news, code examples, articles, and more."
+        "Title": "PyPI · The Python Package Index",
+        "Link": "https://pypi.org/",
+        "Snippet": "The Python Package Index (PyPI) is a repository of software for the Python programming language."
       },
       {
         "Title": "Python language de programmation apprendre cours ...",
@@ -107,24 +107,19 @@
         "Snippet": "Python est un langage facile à apprendre et son code est plus lisible, il est donc plus facile à maintenir. Il est parfois jusqu'à 5 fois plus concis que le ..."
       },
       {
-        "Title": "PyPI · The Python Package Index",
-        "Link": "https://pypi.org/",
-        "Snippet": "The Python Package Index (PyPI) is a repository of software for the Python programming language."
+        "Title": "Python Courses & Tutorials",
+        "Link": "https://www.codecademy.com/catalog/language/python",
+        "Snippet": "Start your coding journey with Python courses and tutorials. From basic to advanced projects, grow your Python skills at Codecademy."
       },
       {
-        "Title": "Laboratoire Python | Lelivrescolaire.fr",
-        "Link": "https://www.lelivrescolaire.fr/outils/console-python",
-        "Snippet": "Apprendre le code passe par la pratique ! Retrouvez une console Python ainsi que des ressources pour travailler efficacement l'algorithmique avec vos ..."
-      },
-      {
-        "Title": "Learn Python Tutorials",
+        "Title": "Learn Python",
         "Link": "https://www.kaggle.com/learn/python",
         "Snippet": "Learn the most important language for data science."
       },
       {
-        "Title": "Google's Python Class | Python Education",
-        "Link": "https://developers.google.com/edu/python",
-        "Snippet": "17 jan. 2023 — Google's Python Class ... Welcome to Google's Python Class -- this is a free class for people with a little bit of programming experience who want ..."
+        "Title": "Python Tutorial | Learn Python Programming",
+        "Link": "https://www.geeksforgeeks.org/python-programming-language/",
+        "Snippet": "il y a 6 jours — Python offers, enabling you to manipulate and manage data with precision and flexibility. Additionally, we'll delve into the dynamic world of ..."
       },
       {
         "Title": "Télécharger Python - Utilitaires, Développement",
@@ -132,39 +127,19 @@
         "Snippet": "Python est un langage de programmation open source et orienté objet disponible sur Linux macOS et Windows. Le kit de développement comprend tous les outils ..."
       },
       {
-        "Title": "PythonAnywhere: Host, run, and code Python in the cloud",
-        "Link": "https://www.pythonanywhere.com/",
-        "Snippet": "PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web-based editor or just run a console session ..."
+        "Title": "Get Started Tutorial for Python in Visual Studio Code",
+        "Link": "https://code.visualstudio.com/docs/python/python-tutorial",
+        "Snippet": "Getting Started with Python in VS Code · Prerequisites · Install a Python interpreter · Start VS Code in a workspace folder · Create a virtual environment."
       },
       {
-        "Title": "Club des développeurs Python : actualités, cours, tutoriels, faq ...",
-        "Link": "https://python.developpez.com/",
-        "Snippet": "Club des développeurs Python : actualités, cours, tutoriels, faq, sources, forum."
+        "Title": "Python : La Formation Complète 2024",
+        "Link": "https://www.udemy.com/course/formation-complete-python/",
+        "Snippet": "Ce que vous apprendrez · Apprendre tous les concepts de Python, des bases aux méthodes avancées, en partant de 0. · Apprendre à réaliser des sites web et des ..."
       },
       {
-        "Title": "Programming for Everybody (Getting Started with Python)",
-        "Link": "https://www.coursera.org/learn/python",
-        "Snippet": "We cover the basics of how one constructs a program from a series of simple instructions in Python. The course has no pre-requisites and avoids all but the ..."
-      },
-      {
-        "Title": "Python - Visual Studio Marketplace",
-        "Link": "https://marketplace.visualstudio.com/items?itemName=ms-python.python",
-        "Snippet": "Quick start · Step 1. Install a supported version of Python on your system (note: that the system install of Python on macOS is not supported). · Step 2."
-      },
-      {
-        "Title": "Top Python Courses Online - Updated [May 2024]",
-        "Link": "https://www.udemy.com/topic/python/",
-        "Snippet": "Level up your skills with a Python training course from Udemy. See why millions trust our real-world experts to help them become professional Python ..."
-      },
-      {
-        "Title": "Python Syntax",
-        "Link": "https://www.w3schools.com/python/python_syntax.asp",
-        "Snippet": "Execute Python Syntax. As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line: >>> print(\"Hello, World!\")"
-      },
-      {
-        "Title": "Python Tutorial | Learn Python Programming",
-        "Link": "https://www.geeksforgeeks.org/python-programming-language/",
-        "Snippet": "9 mai 2024 — Python offers, enabling you to manipulate and manage data with precision and flexibility. Additionally, we'll delve into the dynamic world of ..."
+        "Title": "Fonctions en Python",
+        "Link": "https://courspython.com/fonctions.html",
+        "Snippet": "Une « vraie » fonction peut s'utiliser à la droite du signe égale dans des expressions telles que y = sin(a). On comprend aisément que dans cette expression, la ..."
       },
       {
         "Title": "Python",
@@ -172,9 +147,29 @@
         "Snippet": "Repositories related to the Python Programming language - Python."
       },
       {
+        "Title": "Programming for Everybody (Getting Started with Python)",
+        "Link": "https://www.coursera.org/learn/python",
+        "Snippet": "We cover the basics of how one constructs a program from a series of simple instructions in Python. The course has no pre-requisites and avoids all but the ..."
+      },
+      {
+        "Title": "Club des développeurs Python : actualités, cours, tutoriels, faq ...",
+        "Link": "https://python.developpez.com/",
+        "Snippet": "Club des développeurs Python : actualités, cours, tutoriels, faq, sources, forum."
+      },
+      {
         "Title": "PCAP: Programming Essentials in Python",
         "Link": "https://www.netacad.com/courses/programming/pcap-programming-essentials-python",
         "Snippet": "Learn Python, the versatile programming language · Part 1 (PE1: 35 hours) prepares you for PCEP – Certified Entry-Level Python Programmer Certification. · Part ..."
+      },
+      {
+        "Title": "Python Syntax",
+        "Link": "https://www.w3schools.com/python/python_syntax.asp",
+        "Snippet": "Execute Python Syntax. As we learned in the previous page, Python syntax can be executed by writing directly in the Command Line: >>> print(\"Hello, World!\")"
+      },
+      {
+        "Title": "PythonAnywhere: Host, run, and code Python in the cloud",
+        "Link": "https://www.pythonanywhere.com/",
+        "Snippet": "PythonAnywhere makes it easy to create and run Python programs in the cloud. You can write your programs in a web-based editor or just run a console session ..."
       },
       {
         "Title": "Learn Python - Free Interactive Python Tutorial",
@@ -182,9 +177,34 @@
         "Snippet": "learnpython.org is a free interactive Python tutorial for people who want to learn Python, fast."
       },
       {
+        "Title": "Google's Python Class | Python Education",
+        "Link": "https://developers.google.com/edu/python",
+        "Snippet": "17 jan. 2023 — Google's Python Class ... Welcome to Google's Python Class -- this is a free class for people with a little bit of programming experience who want ..."
+      },
+      {
         "Title": "Python - Télécharger",
         "Link": "https://python.fr.softonic.com/",
         "Snippet": "24 jui. 2023 — Python est l'un des fleurons du logiciel libre et open source. Il est même à la base d'un grand nombre d'entre eux. Cela signifie qu'il est ..."
+      },
+      {
+        "Title": "Python Tutorial | Learn Python Programming",
+        "Link": "https://www.geeksforgeeks.org/python-programming-language-tutorial/",
+        "Snippet": "il y a 4 jours — Python offers, enabling you to manipulate and manage data with precision and flexibility. Additionally, we'll delve into the dynamic world of ..."
+      },
+      {
+        "Title": "Cours de Python",
+        "Link": "https://python.sdv.univ-paris-diderot.fr/",
+        "Snippet": "Cours de Python¶ ... Couverture livre Dunod. Notre livre « Programmation en Python pour les sciences de la vie » est paru aux éditions Dunod ! Vous le trouverez ..."
+      },
+      {
+        "Title": "Learn Python 2",
+        "Link": "https://www.codecademy.com/learn/learn-python",
+        "Snippet": "Learn the basics of the world's fastest growing and most popular programming language used by software engineers, analysts, data scientists, ..."
+      },
+      {
+        "Title": "Learn Python Programming",
+        "Link": "https://www.programiz.com/python-programming",
+        "Snippet": "Learn Python Programming ... Python is one of the top programming languages in the world, widely used in fields such as AI, machine learning, data science, and ..."
       },
       {
         "Title": "Python: Définition, Exemples, Fonctionnement",
@@ -192,24 +212,14 @@
         "Snippet": "4 oct. 2019 — Python est un langage de programmation interprétation, de haut niveau, à usage général. Créée par Guido van Rossum et publié pour la première ..."
       },
       {
+        "Title": "MicroPython - Python for microcontrollers",
+        "Link": "https://micropython.org/",
+        "Snippet": "MicroPython is a full Python compiler and runtime that runs on the bare-metal. You get an interactive prompt (the REPL) to execute commands immediately, along ..."
+      },
+      {
         "Title": "Python Programming Language",
-        "Link": "https://cloud.google.com/python",
-        "Snippet": "Python on Google Cloud integrates with Cloud Monitoring, Cloud Trace, Cloud Logging, and Error Reporting, allowing you to transparently instrument live ..."
-      },
-      {
-        "Title": "Ressources Python - Apprentissage de la programmation",
-        "Link": "https://inforef.be/swi/python.htm",
-        "Snippet": "Quelques règles de syntaxe Python. Boucles. Réaffectation. Premiers scripts, ou : comment conserver nos programmes ? Principaux types de données. Les listes ( ..."
-      },
-      {
-        "Title": "Learn Python 2",
-        "Link": "https://www.codecademy.com/learn/learn-python",
-        "Snippet": "Learn Python 2. Learn the basics of the world's fastest growing and most popular programming language used by software engineers, analysts, data scientists, and ..."
-      },
-      {
-        "Title": "python/cpython: The Python programming language",
-        "Link": "https://github.com/python/cpython",
-        "Snippet": "The Python programming language. Contribute to python/cpython development by creating an account on GitHub."
+        "Link": "https://play.google.com/store/apps/details?id=info.camposha.python&hl=ln",
+        "Snippet": "Greetings, Welcome to Python Programming Language App. Python is a high-level, general-purpose programming language. It emphasizes code readability."
       },
       {
         "Title": "Python in Visual Studio Code",
@@ -217,9 +227,9 @@
         "Snippet": "Run Python code ... The Python extension then provides shortcuts to run Python code using the currently selected interpreter (Python: Select Interpreter in the ..."
       },
       {
-        "Title": "Python - Glossaire MDN : définitions des termes du Web",
-        "Link": "https://developer.mozilla.org/fr/docs/Glossary/Python",
-        "Snippet": "16 oct. 2023 — Python est un langage de programmation de haut-niveau, pour tous usages. Il possède une approche multi-paradigme et supporte donc des formes ..."
+        "Title": "Python Programming Language",
+        "Link": "https://cloud.google.com/python",
+        "Snippet": "Python on Google Cloud integrates with Cloud Monitoring, Cloud Trace, Cloud Logging, and Error Reporting, allowing you to transparently instrument live ..."
       },
       {
         "Title": "Best Online Python Courses and Programs",
@@ -227,83 +237,662 @@
         "Snippet": "What is covered in a Python tutorial? · Data analysis with packages such as pandas and NumPy · Data visualization using matplotlib or Seaborn · Machine learning ..."
       },
       {
-        "Title": "Python Programming – Applications sur ...",
-        "Link": "https://play.google.com/store/apps/details?id=com.priyanka.python_programming&hl=fr&gl=US",
-        "Snippet": "8 nov. 2021 — Développez vos compétences en python lors de vos déplacements avec cette incroyable application gratuite pour apprendre la programmation ..."
+        "Title": "python/cpython: The Python programming language",
+        "Link": "https://github.com/python/cpython",
+        "Snippet": "The Python programming language. Contribute to python/cpython development by creating an account on GitHub."
       },
       {
-        "Title": "MicroPython - Python for microcontrollers",
-        "Link": "https://micropython.org/",
-        "Snippet": "MicroPython is a full Python compiler and runtime that runs on the bare-metal. You get an interactive prompt (the REPL) to execute commands immediately, along ..."
+        "Title": "Top Python Courses Online - Updated [May 2024]",
+        "Link": "https://www.udemy.com/topic/python/",
+        "Snippet": "Level up your skills with a Python training course from Udemy. See why millions trust our real-world experts to help them become professional Python ..."
       },
       {
-        "Title": "Qu'est-ce que le langage Python",
-        "Link": "https://www.styrel.fr/fr/python-langage-programmation-interprete",
-        "Snippet": "Il fonctionne sur la pluspart des systèmes d'exploitation du marché comme Linux, macOs et Windows. Le Python est vite devenu un langage associé au Big Data, à ..."
+        "Title": "Ressources Python - Apprentissage de la programmation",
+        "Link": "https://inforef.be/swi/python.htm",
+        "Snippet": "Quelques règles de syntaxe Python. Boucles. Réaffectation. Premiers scripts, ou : comment conserver nos programmes ? Principaux types de données. Les listes ( ..."
       },
       {
-        "Title": "Python® – the language of today and tomorrow",
-        "Link": "https://pythoninstitute.org/about-python",
-        "Snippet": "Python was created by Guido van Rossum, and first released on February 20, 1991. While you may know the python as a large snake, the name of the Python ..."
+        "Title": "Python Institute - PROGRAM YOUR FUTURE",
+        "Link": "https://pythoninstitute.org/",
+        "Snippet": "Fabio Miguel Blaska da Fonseca ... I recommend the Python Essentials course because of its didactic methodology, and the exercises and labs which provide students ..."
+      },
+      {
+        "Title": "Python - Glossaire MDN : définitions des termes du Web",
+        "Link": "https://developer.mozilla.org/fr/docs/Glossary/Python",
+        "Snippet": "16 oct. 2023 — Python est un langage de programmation de haut-niveau, pour tous usages. Il possède une approche multi-paradigme et supporte donc des formes ..."
       },
       {
         "Title": "Python for beginners - Training",
         "Link": "https://learn.microsoft.com/en-us/training/paths/beginner-python/",
-        "Snippet": "Python for beginners · Write your first program in Python · Explore packages to better manage projects · Learn Python basics, including the following elements:."
+        "Snippet": "Learn the basics of Python, including how to use Jupyter notebooks, create programs and projects, and work with strings, math, lists, loops, dictionaries, ..."
       },
       {
-        "Title": "Python Tutorial",
-        "Link": "https://www.tutorialspoint.com/python/index.htm",
-        "Snippet": "Characteristics of Python · It supports functional and structured programming methods as well as OOP. · It can be used as a scripting language or can be ..."
-      },
-      {
-        "Title": "scikit-learn: machine learning in Python — scikit-learn 1.4.2 ...",
-        "Link": "https://scikit-learn.org/",
-        "Snippet": "Machine Learning in Python · Simple and efficient tools for predictive data analysis · Accessible to everybody, and reusable in various contexts · Built on ..."
-      },
-      {
-        "Title": "Python Tutorial",
-        "Link": "https://www.pythontutorial.net/",
-        "Snippet": "Python Tutorial · Gain basic Python programming concepts. · How to develop real-world Python applications. · Apply Python programming techniques in specific ..."
-      },
-      {
-        "Title": "Learn Python Programming",
-        "Link": "https://www.programiz.com/python-programming",
-        "Snippet": "Learn Python Programming ... Python is one of the top programming languages in the world, widely used in fields such as AI, machine learning, data science, and ..."
+        "Title": "Python Functions",
+        "Link": "https://www.w3schools.com/python/python_functions.asp",
+        "Snippet": "Python Functions ... A function is a block of code which only runs when it is called. You can pass data, known as parameters, into a function. A function can ..."
       }
     ],
     "questions": [
       "Quel est le rôle de Python ?",
-      "Quel est le type de langage de Python ?",
-      "Qui peut apprendre Python ?",
-      "Comment apprendre le Python seul ?"
+      "Où utiliser Python ?",
+      "C'est quoi le programme Python ?",
+      "Quelle langage utilisé Python ?"
     ],
     "related_searches": [
       {
-        "Python online": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+online&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAg1EAE"
+        "Python online": "/search?sca_esv=3eef141e9e980f13&q=Python+online&sa=X&ved=2ahUKEwjW1qm616uGAxXQUqQEHeIKBDYQ1QJ6BAgtEAE"
       },
       {
-        "Python download": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+download&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgxEAE"
+        "Python download": "/search?sca_esv=3eef141e9e980f13&q=Python+download&sa=X&ved=2ahUKEwjW1qm616uGAxXQUqQEHeIKBDYQ1QJ6BAgsEAE"
       },
       {
-        "Python serpent": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+serpent&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgqEAE"
+        "Python serpent": "/search?sca_esv=3eef141e9e980f13&q=Python+serpent&sa=X&ved=2ahUKEwjW1qm616uGAxXQUqQEHeIKBDYQ1QJ6BAgrEAE"
       },
       {
-        "Python programming": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+programming&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgpEAE"
+        "Python programming": "/search?sca_esv=3eef141e9e980f13&q=Python+programming&sa=X&ved=2ahUKEwjW1qm616uGAxXQUqQEHeIKBDYQ1QJ6BAgoEAE"
       },
       {
-        "Python tutorial": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+tutorial&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgoEAE"
+        "Python cours": "/search?sca_esv=3eef141e9e980f13&q=Python+cours&sa=X&ved=2ahUKEwjW1qm616uGAxXQUqQEHeIKBDYQ1QJ6BAglEAE"
       },
       {
-        "Python cours": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+cours&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAgnEAE"
+        "Python tutorial": "/search?sca_esv=3eef141e9e980f13&q=Python+tutorial&sa=X&ved=2ahUKEwjW1qm616uGAxXQUqQEHeIKBDYQ1QJ6BAgjEAE"
       },
       {
-        "Python code": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Python+code&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAghEAE"
+        "Python code": "/search?sca_esv=3eef141e9e980f13&q=Python+code&sa=X&ved=2ahUKEwjW1qm616uGAxXQUqQEHeIKBDYQ1QJ6BAgiEAE"
       },
       {
-        "Langage Python cours PDF": "/search?sca_esv=6965cced8725ff61&sca_upv=1&q=Langage+Python+cours+PDF&sa=X&ved=2ahUKEwiYlKbGpJWGAxX-dqQEHTx_B5QQ1QJ6BAggEAE"
+        "Python PDF": "/search?sca_esv=3eef141e9e980f13&q=Python+PDF&sa=X&ved=2ahUKEwjW1qm616uGAxXQUqQEHeIKBDYQ1QJ6BAghEAE"
       }
     ],
+    "SearchEngine": "Google"
+  },
+  {
+    "info": [
+      {
+        "Title": "Java | Oracle",
+        "Link": "https://www.java.com/fr/",
+        "Snippet": "Commencez à utiliser Java dès aujourd'hui."
+      },
+      {
+        "Title": "Java (langage)",
+        "Link": "https://fr.wikipedia.org/wiki/Java_(langage)",
+        "Snippet": "Java est un langage de programmation de haut niveau orienté objet créé par James Gosling et Patrick Naughton, employés de Sun Microsystems, avec le soutien ..."
+      },
+      {
+        "Title": "Apprenez à programmer en Java",
+        "Link": "https://openclassrooms.com/fr/courses/6173501-apprenez-a-programmer-en-java",
+        "Snippet": "23 avr. 2024 — Partie 1 - Gérez les variables de votre programme en Java · 1. Tirez le maximum de ce cours · 2. Déclarez des variables · 3. Choisissez le bon ..."
+      },
+      {
+        "Title": "Java : Les fondamentaux expliqués (JDK, JRE et JVM)",
+        "Link": "https://datascientest.com/langage-java-tout-savoir",
+        "Snippet": "16 jui. 2023 — Java est un langage de programmation de haut niveau orienté objet développé par James Gosling et Patrick Naughton."
+      },
+      {
+        "Title": "Logiciel Java",
+        "Link": "https://www.oracle.com/fr/java/",
+        "Snippet": "Oracle Java est le premier langage de programmation et la première plate-forme de développement. Il réduit les coûts, raccourcit les délais de développement, ..."
+      },
+      {
+        "Title": "Minecraft : éditions Java et Bedrock pour PC",
+        "Link": "https://www.minecraft.net/fr-fr/store/minecraft-java-bedrock-edition-pc",
+        "Snippet": "Acheter Minecraft : éditions Java et Bedrock pour PC Cette offre groupée vous permet de passer facilement d'un jeu Java à un jeu Bedrock tout en jouant sur ..."
+      },
+      {
+        "Title": "Technologies Oracle Java",
+        "Link": "https://www.oracle.com/fr/java/technologies/",
+        "Snippet": "Java stimule l'innovation dans notre monde numérique. Exploitez ce potentiel avec des ressources Java pour les étudiants codeurs, les amateurs, les développeurs ..."
+      },
+      {
+        "Title": "Java (technique)",
+        "Link": "https://fr.wikipedia.org/wiki/Java_(technique)",
+        "Snippet": "Java est une technique informatique développée initialement par Sun Microsystems puis acquise par Oracle à la suite du rachat de l'entreprise."
+      },
+      {
+        "Title": "Qu'est-ce que Java ? – Le langage de programmation ...",
+        "Link": "https://aws.amazon.com/fr/what-is/java/",
+        "Snippet": "Java est un langage de programmation largement utilisé pour coder des applications web. Il a été fréquemment choisi parmi les développeurs depuis plus de ..."
+      },
+      {
+        "Title": "Téléchargement de logiciels Java - Telecharger.com",
+        "Link": "https://www.01net.com/telecharger/programmation/java/",
+        "Snippet": "Téléchargement de logiciels Java - Retrouvez de nombreux logiciels les plus utiles, sélectionnés par la rédaction de 01net."
+      },
+      {
+        "Title": "Java : définition - JDN",
+        "Link": "https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1203555-java-definition/",
+        "Snippet": "8 jan. 2019 — La technologie Java définit à la fois un langage de programmation orienté objet et une plateforme informatique. Créée par l'entreprise Sun ..."
+      },
+      {
+        "Title": "Java Tutorial",
+        "Link": "https://www.w3schools.com/java/",
+        "Snippet": "Learn Java. Java is a popular programming language. Java is used to develop mobile apps, web apps, desktop apps, games and much more."
+      },
+      {
+        "Title": "Apprendre Java: Guide Ultimate – Applications sur ...",
+        "Link": "https://play.google.com/store/apps/details?id=ab.java.programming&hl=fr",
+        "Snippet": "Apprenez les bases de la programmation Java ou devenez un expert en programmation Java avec cette meilleure application d'apprentissage de code Java. Apprenez à ..."
+      },
+      {
+        "Title": "JDK Builds from Oracle - Java.net",
+        "Link": "https://jdk.java.net/",
+        "Snippet": "Early access: JDK 23, JavaFX 23, Jextract, Loom, & Valhalla. Looking to learn more about Java? Visit dev.java for the latest Java developer news and resources."
+      },
+      {
+        "Title": "Le développement avec Java : le tutorial développons en ...",
+        "Link": "https://www.jmdoudoux.fr/accueil_java.htm",
+        "Snippet": "Ces pages vous propose un tutorial sous licence GNU FDL au format HTML en ligne ou PDF sur le developpement avec Java. Il se compose de ..."
+      },
+      {
+        "Title": "Les meilleurs cours et tutoriels pour apprendre JAVA",
+        "Link": "https://java.developpez.com/cours/",
+        "Snippet": "Sommaire · API, bibliothèques tierces, langage et écosytème · Cours magistraux et d'initiation · Langage · Développement mobile · Android · Java ME (Micro ..."
+      },
+      {
+        "Title": "Dev.java: The Destination for Java Developers",
+        "Link": "https://dev.java/",
+        "Snippet": "Project Leyden aims to improve the startup time, time to peak performance, and footprint of Java programs by extending the Java programming model with features ..."
+      },
+      {
+        "Title": "Qu'est-ce que Java",
+        "Link": "https://www.ibm.com/fr-fr/topics/java",
+        "Snippet": "Java est une technologie composée à la fois d'un langage de programmation et d'une plateforme logicielle. Pour créer une application avec Java, vous devez ..."
+      },
+      {
+        "Title": "Club francophone des développeurs Java : actualités, forums ...",
+        "Link": "https://java.developpez.com/",
+        "Snippet": "Club Java, tutoriels, cours, faq, sources, blogs et forums."
+      },
+      {
+        "Title": "Java",
+        "Link": "https://www.youtube.com/@java",
+        "Snippet": "Java · 1 month ago. CC · Sip of Java. Sip of Java helps developers kick off their week by providing a quick shot of information on new features, interesting ..."
+      },
+      {
+        "Title": "Langage de programmation Java | Google Cloud",
+        "Link": "https://cloud.google.com/java?hl=fr",
+        "Snippet": "Google Cloud offre aux développeurs Java les outils dont ils ont besoin pour concevoir des applications cloud natives réussies. Profitez d'intégrations avancées ..."
+      },
+      {
+        "Title": "Qu'est-ce que Java ? Définition, signification et ...",
+        "Link": "https://appmaster.io/fr/blog/quest-ce-que-java-definition-signification-caracteristiques",
+        "Snippet": "17 jan. 2023 — Java est un langage de programmation qui est utilisé pour écrire des applications logicielles. Il n'est écrit dans aucun autre langage. Le code ..."
+      },
+      {
+        "Title": "Télécharger Java Runtime Environment (gratuit) Windows, ...",
+        "Link": "https://www.clubic.com/telecharger-fiche121472-java-runtime-environment.html",
+        "Snippet": "20 oct. 2022 — Développé par la société Oracle, Java Runtime Environment ou JRE est un ensemble d'outils permettant l'exécution de programmes, ..."
+      },
+      {
+        "Title": "Définition de JAVA",
+        "Link": "https://www.cnrtl.fr/definition/java",
+        "Snippet": "1. Fête, partie de plaisir, partie de débauche. Le grand Paul était bon fils. À chaque fois qu'il touchait, il emmenait son dabe en java et le ramenait qu'à l' ..."
+      },
+      {
+        "Title": "What is Java? | Definition from TechTarget",
+        "Link": "https://www.theserverside.com/definition/Java",
+        "Snippet": "Java is object-oriented. Java was mainly built as an object-orientated language, where a programmer-created object is made up of data as fields or attributes ..."
+      },
+      {
+        "Title": "What is Java? - Java Programming Language Explained",
+        "Link": "https://aws.amazon.com/what-is/java/",
+        "Snippet": "Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself. It is a fast, secure, reliable programming ..."
+      },
+      {
+        "Title": "Java Tutorial | Learn Java Programming",
+        "Link": "https://www.javatpoint.com/java-tutorial",
+        "Snippet": "What is Java? Java is a programming language and a platform. Java is a high level, robust, object-oriented and secure programming language. Java was developed ..."
+      },
+      {
+        "Title": "Définition | Java - Futura Sciences",
+        "Link": "https://www.futura-sciences.com/tech/definitions/informatique-java-485/",
+        "Snippet": "Le Java est un langage de programmation orientée objet développé par Sun Microsystems en 1995, et racheté depuis par Oracle. Le principal avantage de Java ..."
+      },
+      {
+        "Title": "Télécharger Java SE Development Kit (JDK)",
+        "Link": "https://www.lesnumeriques.com/telecharger/java-se-development-kit-jdk-20544",
+        "Snippet": "Java SE JDK est le kit de développement JAVA officiel édité par Oracle. Il fournit un environnement complet et puissant pour les développeurs Java, les aidant à ..."
+      },
+      {
+        "Title": "Java Runtime Environment 8 (JRE)",
+        "Link": "https://www.01net.com/telecharger/programmation/java/java-runtime-environment-8-jre.html",
+        "Snippet": "19 avr. 2024 — Présentation de Java Runtime Environment 8 (JRE) par Telecharger.com. Java Runtime Environment (JRE) est une machine virtuelle Java. C'est une ..."
+      },
+      {
+        "Title": "Formation Développeur d'application Java",
+        "Link": "https://openclassrooms.com/fr/paths/883-developpeur-dapplication-java",
+        "Snippet": "10 avr. 2024 — Créez votre première application web avec Spring Boot · Sélectionner les langages de programmation adaptés pour le développement de l' ..."
+      },
+      {
+        "Title": "java — Wiktionnaire, le dictionnaire libre",
+        "Link": "https://fr.wiktionary.org/wiki/java",
+        "Snippet": "Nom commun 1 modifier ... Danse à trois temps et à cadence rapide et qui se danse à petits pas. ... (Argot) (Familier) Partie de plaisir, voire de débauche ; ..."
+      },
+      {
+        "Title": "java [Wiki ubuntu-fr]",
+        "Link": "http://doc.ubuntu-fr.org/java",
+        "Snippet": "De manière non interactive · Pour obtenir la liste des versions disponibles, Saisir dans un terminal la commande suivante : update-java-alternatives -l · Vous ..."
+      },
+      {
+        "Title": "Learn Java",
+        "Link": "https://dev.java/learn/",
+        "Snippet": "Mastering the API · The Collections Framework. Getting to know the Collections Framework to store and retrieve data in collections and hashmaps. · The Stream ..."
+      },
+      {
+        "Title": "Introduction to Java",
+        "Link": "https://www.w3schools.com/java/java_intro.asp",
+        "Snippet": "Why Use Java? · Java works on different platforms (Windows, Mac, Linux, Raspberry Pi, etc.) · It is one of the most popular programming languages in the world ..."
+      },
+      {
+        "Title": "Tout comprendre à Java",
+        "Link": "https://www.zdnet.fr/pratique/tout-comprendre-a-java-39931513.htm",
+        "Snippet": "26 avr. 2024 — Java est un langage orienté objet avec une syntaxe hérité du C. Ce n'est pas un langage natif, mais interprété. Pour exécuter un code Java, il ..."
+      },
+      {
+        "Title": "What Is Java?",
+        "Link": "https://www.ibm.com/topics/java",
+        "Snippet": "Java, which is based on C and C++ languages, is a widely used object-oriented programming language and software platform that runs on billions of devices."
+      },
+      {
+        "Title": "JAVA – Applications sur Google Play",
+        "Link": "https://play.google.com/store/apps/details?id=com.meet.learnjava&hl=ln",
+        "Snippet": "Included Basic JAVA Language Theory with many MCQ and Short Question answer. Features: • Absolutely free. • Fully Offline for studies. • Easy language"
+      },
+      {
+        "Title": "Qu'est-ce que Java",
+        "Link": "https://learn.microsoft.com/fr-fr/shows/java-for-beginners/what-is-java",
+        "Snippet": "11 avr. 2022 — Que devez-vous savoir pour bien démarrer avec Java ? Microsoft Principal Cloud Advocate et champion Java Mark Heckler introduit Java et les ..."
+      },
+      {
+        "Title": "Adoptium: Home",
+        "Link": "https://adoptium.net/",
+        "Snippet": "Prebuilt OpenJDK. Binaries for Free! Java™ is the world's leading programming language and platform. The Adoptium Working Group promotes and supports high- ..."
+      },
+      {
+        "Title": "Java Tutorial | Learn Java Programming",
+        "Link": "https://www.geeksforgeeks.org/java/",
+        "Snippet": "26 avr. 2024 — Features of Java · Java has been one of the most popular programming languages for many years. · Java is Object Oriented. · The Java codes are ..."
+      },
+      {
+        "Title": "définition et synonyme de java en français",
+        "Link": "https://langue-francaise.tv5monde.com/decouvrir/dictionnaire/j/java",
+        "Snippet": "La définition de Java dans le dictionnaire français de TV5MONDE. Découvrez également les synonymes de java sur TV5MONDE."
+      },
+      {
+        "Title": "Java",
+        "Link": "https://twitter.com/java",
+        "Snippet": "The official page of the #1 programming language and development platform."
+      },
+      {
+        "Title": "BlueJ",
+        "Link": "https://www.bluej.org/",
+        "Snippet": "BlueJ. A free Java Development Environment designed for beginners, used by millions worldwide. Find out more... \"One of my favourite IDEs out there is BlueJ ..."
+      },
+      {
+        "Title": "6 frameworks Java à utiliser en 2024",
+        "Link": "https://www.codeur.com/blog/frameworks-java/",
+        "Snippet": "Dropwizard ... Vous cherchez un framework simple et efficace ? Dropwizard est fait pour vous. Ce framework open-source compile les librairies Java les plus ..."
+      },
+      {
+        "Title": "Learn Java",
+        "Link": "https://www.codecademy.com/learn/learn-java",
+        "Snippet": "Related courses and paths · Free course. Intro to Java. Get started with Java by learning about the basics of a Java program and variables! · Free course. Learn ..."
+      },
+      {
+        "Title": "java - Définitions, synonymes, prononciation, exemples",
+        "Link": "https://dictionnaire.lerobert.com/definition/java",
+        "Snippet": "10 fév. 2024 — Définition de java ​​​ Votre navigateur ne prend pas en charge audio. nom féminin. Danse de bal musette à trois temps, assez rapide. Air, ..."
+      },
+      {
+        "Title": "Java Tutorial | Learn Java Programming",
+        "Link": "https://www.tutorialspoint.com/java/index.htm",
+        "Snippet": "What are the 4 important concepts in Java? chevron. Java supports abstraction, encapsulation, polymorphism, and inheritance.. These are 4 major theoretical ..."
+      },
+      {
+        "Title": "What is Java?",
+        "Link": "https://opensource.com/resources/java",
+        "Snippet": "Java was originally developed and supported by Sun Microsystems and is now supported by Oracle. However, Java is open source and has a worldwide community ..."
+      },
+      {
+        "Title": "Learn Java Programming",
+        "Link": "https://www.programiz.com/java-programming",
+        "Snippet": "How to Run Java? 1. Run Java in your browser. We have created an online editor to run Java directly on your browser. You don't have to go through a tedious ..."
+      },
+      {
+        "Title": "Learn Java with online courses and programs",
+        "Link": "https://www.edx.org/learn/java",
+        "Snippet": "Explore Java programming jobs · Java full stack developer · Java software engineer · Java architect · Quality assurance engineer · Data engineer. Java tutorials ..."
+      },
+      {
+        "Title": "Java in Visual Studio Code",
+        "Link": "https://code.visualstudio.com/docs/languages/java",
+        "Snippet": "Install a Java Development Kit (JDK). A Java Development Kit (JDK) is a software development environment used for developing Java applications. In order to run ..."
+      },
+      {
+        "Title": "Inside.java",
+        "Link": "https://inside.java/",
+        "Snippet": "News and views from members of the Java team at Oracle."
+      },
+      {
+        "Title": "OpenJDK",
+        "Link": "https://openjdk.org/",
+        "Snippet": "Oracle's free, GPL-licensed, production-ready OpenJDK JDK 22 binaries for Linux, macOS, and Windows are available at jdk.java.net/22; Oracle's commercially- ..."
+      }
+    ],
+    "questions": [
+      "Quel est le rôle de Java ?",
+      "Où installer Java ?",
+      "Est-ce que Java est encore utile ?",
+      "C'est quoi Java 8 ?"
+    ],
+    "related_searches": [
+      {
+        "Java download": "/search?sca_esv=3eef141e9e980f13&q=Java+download&sa=X&ved=2ahUKEwjuro_G16uGAxXhVqQEHYBLCBEQ1QJ6BAg9EAE"
+      },
+      {
+        "Java 17": "/search?sca_esv=3eef141e9e980f13&q=Java+17&sa=X&ved=2ahUKEwjuro_G16uGAxXhVqQEHYBLCBEQ1QJ6BAg6EAE"
+      },
+      {
+        "Java JDK": "/search?sca_esv=3eef141e9e980f13&q=Java+JDK&sa=X&ved=2ahUKEwjuro_G16uGAxXhVqQEHYBLCBEQ1QJ6BAg4EAE"
+      },
+      {
+        "Java : définition": "/search?sca_esv=3eef141e9e980f13&q=Java+:+d%C3%A9finition&sa=X&ved=2ahUKEwjuro_G16uGAxXhVqQEHYBLCBEQ1QJ6BAg0EAE"
+      },
+      {
+        "Java 21": "/search?sca_esv=3eef141e9e980f13&q=Java+21&sa=X&ved=2ahUKEwjuro_G16uGAxXhVqQEHYBLCBEQ1QJ6BAgzEAE"
+      },
+      {
+        "Plateforme Java": "/search?sca_esv=3eef141e9e980f13&q=Plateforme+Java&sa=X&ved=2ahUKEwjuro_G16uGAxXhVqQEHYBLCBEQ1QJ6BAgyEAE"
+      },
+      {
+        "Java musique": "/search?sca_esv=3eef141e9e980f13&q=Java+musique&sa=X&ved=2ahUKEwjuro_G16uGAxXhVqQEHYBLCBEQ1QJ6BAgxEAE"
+      },
+      {
+        "Java Mac": "/search?sca_esv=3eef141e9e980f13&q=Java+Mac&sa=X&ved=2ahUKEwjuro_G16uGAxXhVqQEHYBLCBEQ1QJ6BAgwEAE"
+      }
+    ],
+    "SearchEngine": "Google"
+  },
+  {
+    "info": [
+      {
+        "Title": "Documentation C# – Démarrage, tutoriels et informations ...",
+        "Link": "https://learn.microsoft.com/fr-fr/dotnet/csharp/tour-of-csharp/",
+        "Snippet": "Documentation C#. Apprenez à écrire une application à l'aide du langage de programmation C# sur la plateforme .NET. Apprendre à programmer en C#."
+      },
+      {
+        "Title": "Guide C# – Langage managé .NET",
+        "Link": "https://learn.microsoft.com/fr-fr/dotnet/csharp/",
+        "Snippet": "Le guide C# contient des articles, des tutoriels et des exemples de code pour vous aider à bien démarrer avec C# et la plateforme .NET. Les développeurs ..."
+      },
+      {
+        "Title": "C# Tutorial (C Sharp)",
+        "Link": "https://www.w3schools.com/cs/index.php",
+        "Snippet": "C# (C-Sharp) is a programming language developed by Microsoft that runs on the .NET Framework. C# is used to develop web apps, ..."
+      },
+      {
+        "Title": "Apprenez à programmer en C# - OpenClassrooms",
+        "Link": "https://openclassrooms.com/fr/courses/7973891-apprenez-a-programmer-en-c",
+        "Snippet": "12 jan. 2023 — Introduction du cours · Utiliser les données et les types de données en C#. · Maîtriser la logique d'un programme en C# (conditions, boucles, ..."
+      },
+      {
+        "Title": "Base du langage C# — Documentation Programmation ...",
+        "Link": "https://perso.esiee.fr/~perretb/I3FM/POO1/basecsharp/index.html",
+        "Snippet": "C# est un langage introduit par Microsoft en 2000. C'est un langage objet avec un typage statique fort, une syntaxe héritée du C/C++ et une philosophie très ..."
+      },
+      {
+        "Title": "C# et .net",
+        "Link": "https://www.ideematic.com/dictionnaire-digital/c-sharp-dot-net/",
+        "Snippet": "Créé par Microsoft au début des années 2000, ce langage de programmation dite « de haut niveau » est orienté objet et a une syntaxe très proche de celle de java ..."
+      },
+      {
+        "Title": "C Sharp (programming language)",
+        "Link": "https://en.wikipedia.org/wiki/C_Sharp_(programming_language)",
+        "Snippet": "C# is a general-purpose high-level programming language supporting multiple paradigms. C# encompasses static typing, : 4 strong typing, lexically scoped, ..."
+      },
+      {
+        "Title": "Meilleurs cours de C# (langage de programmation) en ligne",
+        "Link": "https://www.udemy.com/fr/topic/c-sharp/",
+        "Snippet": "Apprenez le C# (\"C Sharp\") avec les formateurs les mieux notés. Trouvez les meilleurs cours de programmation C # pour votre niveau et vos besoins."
+      },
+      {
+        "Title": "C sharp - Vikidia, l'encyclopédie des 8-13 ans",
+        "Link": "https://fr.vikidia.org/wiki/C_sharp",
+        "Snippet": "Le C# (CSharp, prononcer si chaâp) est un langage de programmation créé par Microsoft pour faire concurrence au Java et avoir un langage plus simple que le ..."
+      },
+      {
+        "Title": "C# Introduction",
+        "Link": "https://www.w3schools.com/cs/cs_intro.php",
+        "Snippet": "It is an object-oriented programming language created by Microsoft that runs on the .NET Framework. C# has roots from the C family, and the ..."
+      },
+      {
+        "Title": "Développement C# et Expertise à Lyon",
+        "Link": "https://www.axopen.com/developpement-c-sharp-lyon/",
+        "Snippet": "Le C# est un langage de programmation orienté objet avec un typage fort qui permet de développer des applications web, client lourd et API. On l'utilise ..."
+      },
+      {
+        "Title": "C# : les fondements",
+        "Link": "https://www.perf.etsmtl.ca/Descriptions/PER574-C-les-fondements",
+        "Snippet": "Développer des applications en C#. Le C# est un langage de programmation orienté objet en constante évolution. Il est moderne, simple et facile ..."
+      },
+      {
+        "Title": "Cours et tutoriels gratuits sur le sujet C# (programming ...",
+        "Link": "https://www.udemy.com/fr/topic/c-sharp/free/",
+        "Snippet": "Apprenez le C# (\"C Sharp\") avec les formateurs les mieux notés. Trouvez les meilleurs cours de programmation C # pour votre niveau et vos besoins."
+      },
+      {
+        "Title": "C#",
+        "Link": "https://www.editions-eni.fr/developpement-d-applications/langages/c",
+        "Snippet": "C#. Le langage de programmation C# est un langage moderne, orienté objet et polyvalent, développé par Microsoft. Il est utilisé pour la création d'applications ..."
+      },
+      {
+        "Title": "Pourquoi apprendre le langage C# aujourd'hui est essentiel",
+        "Link": "https://blog.dyma.fr/csharp/",
+        "Snippet": "24 mai 2023 — Un langage polyvalent et orienté objet. C# est un langage de programmation orienté objet qui facilite la création de logiciels modulaires et ..."
+      },
+      {
+        "Title": "Club des développeurs C# : actualités, cours, tutoriels, ...",
+        "Link": "https://dotnet.developpez.com/csharp/",
+        "Snippet": "21 jui. 2021 — Club des développeurs C# : actualités, cours, tutoriels, programmation, FAQ, codes sources, livres, outils et forums."
+      },
+      {
+        "Title": "Qu'est-ce que C# et pourquoi l'apprendre ?",
+        "Link": "https://talks.freelancerepublik.com/pourquoi-comment-apprendre-c-sharp/",
+        "Snippet": "9 fév. 2022 — Les avantages de C# · C# permet de construire des applications Windows sans passer par C++ (qui est un peu plus complexe) ; · Les cas d' ..."
+      },
+      {
+        "Title": "Get started with C# and .NET in Visual Studio Code",
+        "Link": "https://code.visualstudio.com/docs/csharp/get-started",
+        "Snippet": "To get started, go to the Explorer view and select Create .NET Project. Alternatively, you can bring up the Command Palette using Ctrl+Shift+P and then type \"."
+      },
+      {
+        "Title": "Cours de formation en ligne de C# | LinkedIn Learning ...",
+        "Link": "https://fr.linkedin.com/learning/topics/c-sharp",
+        "Snippet": "Nos cours de formation en ligne en matière de C# sur LinkedIn Learning (anciennement Lynda.com) vous apportent les compétences dont vous avez besoin, ..."
+      },
+      {
+        "Title": "Learn C# | Codecademy",
+        "Link": "https://www.codecademy.com/learn/learn-c-sharp",
+        "Snippet": "Syllabus · 1. Learn C#: Hello World. Learn about C#, a programming language used for websites, apps, video games, and virtual reality. · 2. Learn C#: Data Types ..."
+      },
+      {
+        "Title": "🔎 C sharp - Définition et Explications",
+        "Link": "https://www.techno-science.net/glossaire-definition/C-sharp.html",
+        "Snippet": "Le C# (prononcé [siː.ʃɑːp]) est un langage de programmation orienté objet à typage fort, créé par la société Microsoft, et notamment un de ses employés, ..."
+      },
+      {
+        "Title": "Learn C# Tutorial",
+        "Link": "https://www.javatpoint.com/c-sharp-tutorial",
+        "Snippet": "C# is pronounced as \"C-Sharp\". It is an object-oriented programming language provided by Microsoft that runs on .Net Framework. By the help of C# programming ..."
+      },
+      {
+        "Title": "Microsoft annonce C# 12 : une meilleure productivité des ...",
+        "Link": "https://dotnet.developpez.com/actu/350810/Microsoft-annonce-C-12-une-meilleure-productivite-des-developpeurs-avec-une-syntaxe-simplifiee-et-une-execution-plus-rapide/",
+        "Snippet": "16 nov. 2023 — C# 12 est disponible ! C# 12 améliore la productivité des développeurs grâce à une syntaxe simplifiée et à une exécution plus rapide."
+      },
+      {
+        "Title": "Programmation C# - Infographie de l'État de l'écosystème ...",
+        "Link": "https://www.jetbrains.com/fr-fr/lp/devecosystem-2020/csharp/",
+        "Snippet": "JetBrains is a cutting-edge software vendor specializing in the creation of intelligent development tools, including IntelliJ IDEA – the leading Java IDE, ..."
+      },
+      {
+        "Title": "C# - Langages de programmation : Livres",
+        "Link": "https://www.amazon.fr/C-Langages-Programmation-Livres/b?ie=UTF8&node=898722",
+        "Snippet": "NouveautésNouveautés · Programmer en C Pour les Nuls Poche. 15,95 €15,95€ · Mastering C# Programming 2024 Guide for Beginners: The Essential Beginner's Guide to ..."
+      },
+      {
+        "Title": "C# programming with Visual Studio Code",
+        "Link": "https://code.visualstudio.com/docs/languages/csharp",
+        "Snippet": "C# language support is provided with the C# Dev Kit extension. You can install it from within VS Code by searching for 'C# Dev Kit' in the Extensions view (Ctrl ..."
+      },
+      {
+        "Title": "C# Tutorial",
+        "Link": "https://www.tutorialspoint.com/csharp/index.htm",
+        "Snippet": "C# is a programming language that is both object-oriented and component oriented. C# has built-in language features that directly support to make it robust."
+      },
+      {
+        "Title": "C# en passe de devenir le langage de l'année 2023",
+        "Link": "https://www.lemondeinformatique.fr/actualites/lire-c-en-passe-de-devenir-le-langage-de-l-annee-2023-92425.html",
+        "Snippet": "13 déc. 2023 — Développement et Tests : Selon l'index de Tiobe, le langage C# est le favori pour devenir le langage de l'année 2023. Il n'a cessé de gagner ..."
+      },
+      {
+        "Title": "(New) Foundational C# with Microsoft Certification",
+        "Link": "https://www.freecodecamp.org/learn/foundational-c-sharp-with-microsoft",
+        "Snippet": "(New) Foundational C# with Microsoft. This course offers a comprehensive introduction to C# programming, covering its core concepts, syntax, and practical ..."
+      },
+      {
+        "Title": "Learn C# - Free Interactive C# Tutorial",
+        "Link": "https://www.learncs.org/",
+        "Snippet": "learncs.org is a free interactive C# tutorial for people who want to learn C#, fast."
+      },
+      {
+        "Title": "C# Station: Tutorials, Links and Articles About C#",
+        "Link": "https://csharp-station.com/",
+        "Snippet": "Welcome. Welcome to C# Station! This is a community site for people interested in applying .NET using the C# programming language. We've been around since July ..."
+      },
+      {
+        "Title": "Développons en Java - Java et C#",
+        "Link": "https://www.jmdoudoux.fr/java/dej/chap-java_et_csharp.htm",
+        "Snippet": "C# permet au travers des structures (structs) de stocker des objets dans la pile plutôt que sur le tas. Ces objets sont nommés type valeur (ValueType) par ..."
+      },
+      {
+        "Title": "C# Tutorials: Learn C# Step-by-Step",
+        "Link": "https://www.tutorialsteacher.com/csharp",
+        "Snippet": "Welcome to C# tutorials section. C# tutorials will help you learn the essentials of C#, from the basics to advanced topics. Use C# to create website, ..."
+      },
+      {
+        "Title": "C# 2nd Edition - Collectif - Livres",
+        "Link": "https://www.amazon.fr/C-2nd-Simon-Robinson/dp/1861007043",
+        "Snippet": "Noté /5. Retrouvez C# 2nd Edition et des millions de livres en stock sur Amazon.fr. Achetez neuf ou d'occasion."
+      },
+      {
+        "Title": "Introduction to C# | Learn with Sololearn",
+        "Link": "https://www.sololearn.com/en/learn/courses/c-sharp-introduction",
+        "Snippet": "C# is used by many large organizations, start-ups and beginners alike. It takes some of the useful features of C and adds syntax to save time and effort."
+      },
+      {
+        "Title": "Apprendre le C# de zéro - Csharp",
+        "Link": "https://analyse-innovation-solution.fr/publication/fr/csharp/langage-developpement-microsoft",
+        "Snippet": "4 déc. 2021 — Le C# (csharp) est un langage orienté objet qui utilise des syntaxes issues du C++ et très proches du Java, il est commercialisé par Microsoft ..."
+      },
+      {
+        "Title": "C# : plus de 100 offres d'emploi (26 mai 2024)",
+        "Link": "https://ma.indeed.com/q-c%23-emplois.html",
+        "Snippet": "C# : 112 offres d'emploi disponibles sur Indeed.com. Développeur .NET, Développeur Web, Développeur Full Stack et bien d'autres : postulez dès maintenant !"
+      },
+      {
+        "Title": "Learn C# Tutorial (C Sharp)",
+        "Link": "https://www.geeksforgeeks.org/csharp-programming-language/",
+        "Snippet": "13 déc. 2023 — Advantages of C# · Easy Syntax: C# is a simple syntax that is easy to learn for a beginner. · Object-oriented Programming language: It is an ..."
+      },
+      {
+        "Title": "Learn C# Programming",
+        "Link": "https://www.programiz.com/csharp-programming",
+        "Snippet": "C# (pronounced as C sharp) is a general-purpose, object-oriented programming language. Our C# programming tutorial will guide you to learn C# programming ..."
+      },
+      {
+        "Title": "C# Development Company",
+        "Link": "https://www.bairesdev.com/technologies/c-sharp/",
+        "Snippet": "C# is an object-oriented language. It supports encapsulation, inheritance, polymorphism, and other concepts, making the programming language a good choice for ..."
+      },
+      {
+        "Title": "C# Courses & Tutorials",
+        "Link": "https://www.codecademy.com/catalog/language/c-sharp",
+        "Snippet": "C# courses · Skill path. Build Web Apps with ASP.NET · Free course. Learn C# · Free course. Learn C#: Introduction · Free course. Learn C#: Classes, Objects, ..."
+      },
+      {
+        "Title": "Visual C# .NET for Complete Beginners",
+        "Link": "https://www.homeandlearn.co.uk/csharp/csharp.html",
+        "Snippet": "This Home and Learn computer course is an introduction to Visual C# .NET programming. It is aimed at complete beginners, and assumes that you have no ..."
+      },
+      {
+        "Title": "Cours C# en ligne gratuits",
+        "Link": "https://alison.com/fr/tag/c-sharp",
+        "Snippet": "Ces cours gratuits en ligne C# vous enseigneront tout ce que vous devez savoir sur C#."
+      },
+      {
+        "Title": "C# Programming for Beginners",
+        "Link": "https://www.simplilearn.com/c-sharp-programming-for-beginners-article",
+        "Snippet": "9 mar. 2023 — C# is a general-purpose, object-oriented programming language that is structured and easy to learn. It runs on Microsoft's .Net ..."
+      },
+      {
+        "Title": "C# Language Design",
+        "Link": "https://github.com/dotnet/csharplang",
+        "Snippet": "C# Language Design ... Welcome to the official repo for C# language design. This is where new C# language features are developed, adopted and specified. C# is ..."
+      },
+      {
+        "Title": "Formation Formation Langage C# 6 : Maîtriser les notions ...",
+        "Link": "https://www.alphorm.com/tutoriel/formation-en-ligne-programmer-en-csharp-6/tuto-video-lutilisation-du-script-cache",
+        "Snippet": "Cette formation C# 6 se terminera par 10 études de cas sur différentes problématiques et leurs solutions sous C# 6. A l'issue de cette formation C# 6, vous ..."
+      },
+      {
+        "Title": "C# Programming",
+        "Link": "https://medium.com/c-sharp-progarmming",
+        "Snippet": "Explore the .Net universe with the latest in C# from basic to advanced, including .Net versions 9, 8, 6, 5, Core 3.1, .Net Framework, ASP."
+      },
+      {
+        "Title": "Learn How to Code in C# for Beginners",
+        "Link": "https://unity.com/how-to/learning-c-sharp-unity-beginners",
+        "Snippet": "The language that's used in Unity is called C# (pronounced C-sharp). All the languages that Unity operates with are object-oriented scripting languages. Like ..."
+      },
+      {
+        "Title": "Learn C# Programming",
+        "Link": "https://play.google.com/store/apps/details?id=com.learning.csharp_programming&hl=fr&gl=US",
+        "Snippet": "5 sept. 2021 — Apprenez C#, l'un des langages de programmation d'applications Web les plus demandés à l'heure actuelle. Apprenez C# de manière simple et ..."
+      },
+      {
+        "Title": "C# 10",
+        "Link": "https://www.pluralsight.com/paths/c-10",
+        "Snippet": "C# is the most popular language to build .NET applications today. It's part of the .NET ecosystem, which offers developers all the tools, languages and ..."
+      },
+      {
+        "Title": "C# - CodeProject",
+        "Link": "https://www.codeproject.com/Tags/Csharp",
+        "Snippet": "The classes in this project allow you to parse text expressions entered by a user and compile them to a .NET assembly. This assembly can be executed on the fly, ..."
+      },
+      {
+        "Title": "C# information, news, and how-to advice",
+        "Link": "https://www.infoworld.com/category/c-sharp/",
+        "Snippet": "C# | News, how-tos, features, reviews, and videos."
+      },
+      {
+        "Title": "Introduction to C# - GeeksforGeeks",
+        "Link": "https://www.geeksforgeeks.org/introduction-to-c-sharp/",
+        "Snippet": "23 mar. 2023 — Introduction to C# · Easy to start: C# is a high-level language so it is closer to other popular programming languages like C, C++, and Java and ..."
+      },
+      {
+        "Title": "C# for Beginners",
+        "Link": "https://www.youtube.com/playlist?list=PLdo4fOcmZ0oULFjxrOagaERVAMbmG20Xe",
+        "Snippet": "Join Scott Hanselman and .NET Distinguished Engineer David Fowler as they teach us C# from the ground up! From Hello World to LINQ and more, ..."
+      }
+    ],
+    "questions": [
+      "C'est quoi la différence entre C et C# ?",
+      "Qui utilise C# ?",
+      "Quel est le framework de C# ?",
+      "Où apprendre le C# ?"
+    ],
+    "related_searches": [],
     "SearchEngine": "Google"
   }
 ]
