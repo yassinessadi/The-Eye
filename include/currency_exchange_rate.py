@@ -3,6 +3,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from .web_parser import WebScraper
+import pandas as pd
+from .data_handler import DataHandler
 
 
 class CurrencyExchangeRate:
@@ -19,12 +21,17 @@ class CurrencyExchangeRate:
             soup = WebScraper.parse_website(html)
 
             exchange_rate_div = soup.find('div', {'class': 'b1hJbf'})
+
             exchange_rate = exchange_rate_div['data-exchange-rate']
-            print(f"Exchange rate: {exchange_rate}")
-            data_name_1 = exchange_rate_div.find("span",{"class":"vLqKYe"}).get_text(strip=True)
-            data_name_2 = exchange_rate_div.find("span",{"class":"MWvIVe"}).get_text(strip=True)
-            print(f"{data_name_1}")
-            print(f"{data_name_2}")
+            from_currency = exchange_rate_div.find("span",{"class":"vLqKYe"}).get_text(strip=True)
+            to_currency = exchange_rate_div.find("span",{"class":"MWvIVe"}).get_text(strip=True)
+            currency_data = [{
+                "from" :from_currency,
+                "to" : to_currency,
+                "exchange rate" : exchange_rate
+            }]
+            df = pd.DataFrame.from_dict(currency_data)
+            DataHandler.save_to_json(df,filename="../data/currency.json")
         except Exception as e:
             print(f"Error: {e}")
 
