@@ -21,6 +21,10 @@ class CurrencyExchangeRate:
             exchange_rate_div = soup.find('div', {'class': 'b1hJbf'})
             exchange_rate = exchange_rate_div['data-exchange-rate']
             print(f"Exchange rate: {exchange_rate}")
-            print(f"{exchange_rate_div}")
+            data_name_1 = exchange_rate_div.find("span",{"class":"vLqKYe"}).get_text(strip=True)
+            data_name_2 = exchange_rate_div.find("span",{"class":"MWvIVe"}).get_text(strip=True)
+            print(f"{data_name_1}")
+            print(f"{data_name_2}")
         except Exception as e:
             print(f"Error: {e}")
+
